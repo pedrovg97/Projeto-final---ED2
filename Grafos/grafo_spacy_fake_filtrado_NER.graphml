@@ -1,0 +1,3404 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="ner" attr.type="string"/>
+<graph edgedefault="directed"><node id="today">
+  <data key="d0">DATE</data>
+</node>
+<node id="donald trump">
+  <data key="d0">PERSON</data>
+</node>
+<node id="maria gonzalez">
+  <data key="d0">PERSON</data>
+</node>
+<node id="phoenix">
+  <data key="d0">GPE</data>
+</node>
+<node id="american">
+  <data key="d0">NORP</data>
+</node>
+<node id="gop">
+  <data key="d0">ORG</data>
+</node>
+<node id="fox news">
+  <data key="d0">ORG</data>
+</node>
+<node id="stacey">
+  <data key="d0">PERSON</data>
+</node>
+<node id="jesse williams">
+  <data key="d0">PERSON</data>
+</node>
+<node id="november">
+  <data key="d0">DATE</data>
+</node>
+<node id="california">
+  <data key="d0">GPE</data>
+</node>
+<node id="africanamerican">
+  <data key="d0">ORG</data>
+</node>
+<node id="last june">
+  <data key="d0">DATE</data>
+</node>
+<node id="new jersey">
+  <data key="d0">GPE</data>
+</node>
+<node id="chris christie">
+  <data key="d0">PERSON</data>
+</node>
+<node id="africa">
+  <data key="d0">LOC</data>
+</node>
+<node id="americans">
+  <data key="d0">NORP</data>
+</node>
+<node id="central america">
+  <data key="d0">LOC</data>
+</node>
+<node id="stacey dash">
+  <data key="d0">PERSON</data>
+</node>
+<node id="more than two hours earlier today">
+  <data key="d0">TIME</data>
+</node>
+<node id="new york">
+  <data key="d0">GPE</data>
+</node>
+<node id="mcmahon">
+  <data key="d0">PERSON</data>
+</node>
+<node id="linda">
+  <data key="d0">PERSON</data>
+</node>
+<node id="texas">
+  <data key="d0">GPE</data>
+</node>
+<node id="vince mcmahon">
+  <data key="d0">PERSON</data>
+</node>
+<node id="america">
+  <data key="d0">GPE</data>
+</node>
+<node id="phoenix az">
+  <data key="d0">PERSON</data>
+</node>
+<node id="months">
+  <data key="d0">DATE</data>
+</node>
+<node id="fountain hills">
+  <data key="d0">GPE</data>
+</node>
+<node id="arizona">
+  <data key="d0">GPE</data>
+</node>
+<node id="march">
+  <data key="d0">DATE</data>
+</node>
+<node id="paul horner">
+  <data key="d0">PERSON</data>
+</node>
+<node id="horner disagrees">
+  <data key="d0">PERSON</data>
+</node>
+<node id="clinton">
+  <data key="d0">PERSON</data>
+</node>
+<node id="horner">
+  <data key="d0">ORG</data>
+</node>
+<node id="abc news">
+  <data key="d0">ORG</data>
+</node>
+<node id="smart">
+  <data key="d0">ORG</data>
+</node>
+<node id="tom downey">
+  <data key="d0">PERSON</data>
+</node>
+<node id="mommys house">
+  <data key="d0">ORG</data>
+</node>
+<node id="muslims">
+  <data key="d0">NORP</data>
+</node>
+<node id="african americans">
+  <data key="d0">NORP</data>
+</node>
+<node id="asians">
+  <data key="d0">NORP</data>
+</node>
+<node id="half">
+  <data key="d0">CARDINAL</data>
+</node>
+<node id="a few years">
+  <data key="d0">DATE</data>
+</node>
+<node id="sarah bradley">
+  <data key="d0">PERSON</data>
+</node>
+<node id="the day">
+  <data key="d0">DATE</data>
+</node>
+<node id="david mikkelson">
+  <data key="d0">PERSON</data>
+</node>
+<node id="snopescom">
+  <data key="d0">ORG</data>
+</node>
+<node id="a minute">
+  <data key="d0">TIME</data>
+</node>
+<node id="barbara">
+  <data key="d0">PERSON</data>
+</node>
+<node id="mikkleson">
+  <data key="d0">PERSON</data>
+</node>
+<node id="zero">
+  <data key="d0">CARDINAL</data>
+</node>
+<node id="us mikkelson">
+  <data key="d0">PERSON</data>
+</node>
+<node id="jeff zarronandia">
+  <data key="d0">PERSON</data>
+</node>
+<node id="kim lacapria">
+  <data key="d0">PERSON</data>
+</node>
+<node id="one day">
+  <data key="d0">DATE</data>
+</node>
+<node id="a given week">
+  <data key="d0">DATE</data>
+</node>
+<node id="about fifteen minutes">
+  <data key="d0">TIME</data>
+</node>
+<node id="north carolina">
+  <data key="d0">GPE</data>
+</node>
+<node id="miami">
+  <data key="d0">GPE</data>
+</node>
+<node id="florida">
+  <data key="d0">GPE</data>
+</node>
+<node id="nearly six months">
+  <data key="d0">DATE</data>
+</node>
+<node id="that day">
+  <data key="d0">DATE</data>
+</node>
+<node id="the next few weeks">
+  <data key="d0">DATE</data>
+</node>
+<node id="saudi arabia">
+  <data key="d0">GPE</data>
+</node>
+<node id="eastern">
+  <data key="d0">ORG</data>
+</node>
+<node id="korean">
+  <data key="d0">NORP</data>
+</node>
+<node id="supreme courts">
+  <data key="d0">ORG</data>
+</node>
+<node id="christian">
+  <data key="d0">NORP</data>
+</node>
+<node id="david brody">
+  <data key="d0">PERSON</data>
+</node>
+<node id="republicans">
+  <data key="d0">NORP</data>
+</node>
+<node id="republican">
+  <data key="d0">NORP</data>
+</node>
+<node id="fbi">
+  <data key="d0">ORG</data>
+</node>
+<node id="james comeys">
+  <data key="d0">PERSON</data>
+</node>
+<node id="washington">
+  <data key="d0">GPE</data>
+</node>
+<node id="millions of dollars">
+  <data key="d0">MONEY</data>
+</node>
+<node id="peter comey">
+  <data key="d0">PERSON</data>
+</node>
+<node id="martin">
+  <data key="d0">PERSON</data>
+</node>
+<node id="obama">
+  <data key="d0">PERSON</data>
+</node>
+<node id="united states">
+  <data key="d0">GPE</data>
+</node>
+<node id="senate">
+  <data key="d0">ORG</data>
+</node>
+<node id="one year">
+  <data key="d0">DATE</data>
+</node>
+<node id="lockheed">
+  <data key="d0">ORG</data>
+</node>
+<node id="martin lockheed">
+  <data key="d0">PERSON</data>
+</node>
+<node id="comey">
+  <data key="d0">PERSON</data>
+</node>
+<node id="john ashcroft">
+  <data key="d0">PERSON</data>
+</node>
+<node id="two years">
+  <data key="d0">DATE</data>
+</node>
+<node id="bush">
+  <data key="d0">PERSON</data>
+</node>
+<node id="james comey">
+  <data key="d0">PERSON</data>
+</node>
+<node id="his last year">
+  <data key="d0">DATE</data>
+</node>
+<node id="more than  million">
+  <data key="d0">CARDINAL</data>
+</node>
+<node id="the american chamber of commerce">
+  <data key="d0">ORG</data>
+</node>
+<node id="egypt">
+  <data key="d0">GPE</data>
+</node>
+<node id="bill clinton">
+  <data key="d0">PERSON</data>
+</node>
+<node id="hsbc">
+  <data key="d0">ORG</data>
+</node>
+<node id="london">
+  <data key="d0">GPE</data>
+</node>
+<node id="hsbc company">
+  <data key="d0">ORG</data>
+</node>
+<node id="the clinton foundation">
+  <data key="d0">ORG</data>
+</node>
+<node id="deutsche bank">
+  <data key="d0">ORG</data>
+</node>
+<node id="new york city">
+  <data key="d0">GPE</data>
+</node>
+<node id="peter comeys">
+  <data key="d0">PERSON</data>
+</node>
+<node id="breitbart news">
+  <data key="d0">ORG</data>
+</node>
+<node id="vienna virginia">
+  <data key="d0">GPE</data>
+</node>
+<node id="june">
+  <data key="d0">DATE</data>
+</node>
+<node id="january">
+  <data key="d0">DATE</data>
+</node>
+<node id="franklin graham">
+  <data key="d0">PERSON</data>
+</node>
+<node id="billy graham">
+  <data key="d0">PERSON</data>
+</node>
+<node id="christians">
+  <data key="d0">NORP</data>
+</node>
+<node id="graham">
+  <data key="d0">PERSON</data>
+</node>
+<node id="democrats">
+  <data key="d0">NORP</data>
+</node>
+<node id="four more years">
+  <data key="d0">DATE</data>
+</node>
+<node id="fox news commentator">
+  <data key="d0">ORG</data>
+</node>
+<node id="christmas">
+  <data key="d0">DATE</data>
+</node>
+<node id="carl">
+  <data key="d0">PERSON</data>
+</node>
+<node id="democrat">
+  <data key="d0">NORP</data>
+</node>
+<node id="russia">
+  <data key="d0">GPE</data>
+</node>
+<node id="john">
+  <data key="d0">PERSON</data>
+</node>
+<node id="miller">
+  <data key="d0">ORG</data>
+</node>
+<node id="chriswallace  pm   oct">
+  <data key="d0">PERSON</data>
+</node>
+<node id="october">
+  <data key="d0">DATE</data>
+</node>
+<node id="kevin trump">
+  <data key="d0">PERSON</data>
+</node>
+<node id="hillary">
+  <data key="d0">PERSON</data>
+</node>
+<node id="tonight">
+  <data key="d0">TIME</data>
+</node>
+<node id="joe biden">
+  <data key="d0">PERSON</data>
+</node>
+<node id="joseph shaw harpandjoseph">
+  <data key="d0">PERSON</data>
+</node>
+<edge source="today" target="donald trump"/>
+<edge source="today" target="maria gonzalez"/>
+<edge source="today" target="phoenix"/>
+<edge source="today" target="american"/>
+<edge source="today" target="more than two hours earlier today"/>
+<edge source="today" target="new york"/>
+<edge source="today" target="mcmahon"/>
+<edge source="today" target="linda"/>
+<edge source="today" target="texas"/>
+<edge source="today" target="vince mcmahon"/>
+<edge source="today" target="america"/>
+<edge source="today" target="phoenix az"/>
+<edge source="today" target="months"/>
+<edge source="today" target="fountain hills"/>
+<edge source="today" target="arizona"/>
+<edge source="today" target="march"/>
+<edge source="today" target="paul horner"/>
+<edge source="today" target="horner disagrees"/>
+<edge source="today" target="clinton"/>
+<edge source="today" target="horner"/>
+<edge source="today" target="abc news"/>
+<edge source="today" target="smart"/>
+<edge source="today" target="tom downey"/>
+<edge source="today" target="mommys house"/>
+<edge source="today" target="muslims"/>
+<edge source="today" target="african americans"/>
+<edge source="today" target="asians"/>
+<edge source="today" target="half"/>
+<edge source="today" target="a few years"/>
+<edge source="today" target="sarah bradley"/>
+<edge source="today" target="the day"/>
+<edge source="today" target="david mikkelson"/>
+<edge source="today" target="snopescom"/>
+<edge source="today" target="a minute"/>
+<edge source="today" target="barbara"/>
+<edge source="today" target="mikkleson"/>
+<edge source="today" target="zero"/>
+<edge source="today" target="us mikkelson"/>
+<edge source="today" target="jeff zarronandia"/>
+<edge source="today" target="kim lacapria"/>
+<edge source="today" target="one day"/>
+<edge source="today" target="a given week"/>
+<edge source="today" target="about fifteen minutes"/>
+<edge source="donald trump" target="today"/>
+<edge source="donald trump" target="maria gonzalez"/>
+<edge source="donald trump" target="phoenix"/>
+<edge source="donald trump" target="american"/>
+<edge source="donald trump" target="gop"/>
+<edge source="donald trump" target="fox news"/>
+<edge source="donald trump" target="stacey"/>
+<edge source="donald trump" target="jesse williams"/>
+<edge source="donald trump" target="november"/>
+<edge source="donald trump" target="california"/>
+<edge source="donald trump" target="africanamerican"/>
+<edge source="donald trump" target="last june"/>
+<edge source="donald trump" target="new jersey"/>
+<edge source="donald trump" target="chris christie"/>
+<edge source="donald trump" target="africa"/>
+<edge source="donald trump" target="americans"/>
+<edge source="donald trump" target="central america"/>
+<edge source="donald trump" target="stacey dash"/>
+<edge source="donald trump" target="more than two hours earlier today"/>
+<edge source="donald trump" target="new york"/>
+<edge source="donald trump" target="mcmahon"/>
+<edge source="donald trump" target="linda"/>
+<edge source="donald trump" target="texas"/>
+<edge source="donald trump" target="vince mcmahon"/>
+<edge source="donald trump" target="america"/>
+<edge source="donald trump" target="phoenix az"/>
+<edge source="donald trump" target="months"/>
+<edge source="donald trump" target="fountain hills"/>
+<edge source="donald trump" target="arizona"/>
+<edge source="donald trump" target="march"/>
+<edge source="donald trump" target="paul horner"/>
+<edge source="donald trump" target="horner disagrees"/>
+<edge source="donald trump" target="clinton"/>
+<edge source="donald trump" target="horner"/>
+<edge source="donald trump" target="abc news"/>
+<edge source="donald trump" target="smart"/>
+<edge source="donald trump" target="tom downey"/>
+<edge source="donald trump" target="mommys house"/>
+<edge source="donald trump" target="muslims"/>
+<edge source="donald trump" target="african americans"/>
+<edge source="donald trump" target="asians"/>
+<edge source="donald trump" target="half"/>
+<edge source="donald trump" target="a few years"/>
+<edge source="donald trump" target="sarah bradley"/>
+<edge source="donald trump" target="the day"/>
+<edge source="donald trump" target="david mikkelson"/>
+<edge source="donald trump" target="snopescom"/>
+<edge source="donald trump" target="a minute"/>
+<edge source="donald trump" target="barbara"/>
+<edge source="donald trump" target="mikkleson"/>
+<edge source="donald trump" target="zero"/>
+<edge source="donald trump" target="us mikkelson"/>
+<edge source="donald trump" target="jeff zarronandia"/>
+<edge source="donald trump" target="kim lacapria"/>
+<edge source="donald trump" target="one day"/>
+<edge source="donald trump" target="a given week"/>
+<edge source="donald trump" target="about fifteen minutes"/>
+<edge source="donald trump" target="franklin graham"/>
+<edge source="donald trump" target="billy graham"/>
+<edge source="donald trump" target="christians"/>
+<edge source="donald trump" target="graham"/>
+<edge source="donald trump" target="democrats"/>
+<edge source="donald trump" target="four more years"/>
+<edge source="donald trump" target="fox news commentator"/>
+<edge source="donald trump" target="christmas"/>
+<edge source="donald trump" target="carl"/>
+<edge source="maria gonzalez" target="today"/>
+<edge source="maria gonzalez" target="donald trump"/>
+<edge source="maria gonzalez" target="phoenix"/>
+<edge source="maria gonzalez" target="american"/>
+<edge source="phoenix" target="today"/>
+<edge source="phoenix" target="donald trump"/>
+<edge source="phoenix" target="maria gonzalez"/>
+<edge source="phoenix" target="american"/>
+<edge source="american" target="today"/>
+<edge source="american" target="donald trump"/>
+<edge source="american" target="maria gonzalez"/>
+<edge source="american" target="phoenix"/>
+<edge source="gop" target="donald trump"/>
+<edge source="gop" target="fox news"/>
+<edge source="gop" target="stacey"/>
+<edge source="gop" target="jesse williams"/>
+<edge source="gop" target="november"/>
+<edge source="gop" target="california"/>
+<edge source="gop" target="africanamerican"/>
+<edge source="gop" target="last june"/>
+<edge source="gop" target="new jersey"/>
+<edge source="gop" target="chris christie"/>
+<edge source="gop" target="africa"/>
+<edge source="gop" target="americans"/>
+<edge source="gop" target="central america"/>
+<edge source="gop" target="stacey dash"/>
+<edge source="gop" target="supreme courts"/>
+<edge source="gop" target="christian"/>
+<edge source="gop" target="david brody"/>
+<edge source="gop" target="republicans"/>
+<edge source="gop" target="republican"/>
+<edge source="fox news" target="gop"/>
+<edge source="fox news" target="donald trump"/>
+<edge source="fox news" target="stacey"/>
+<edge source="fox news" target="jesse williams"/>
+<edge source="fox news" target="november"/>
+<edge source="fox news" target="california"/>
+<edge source="fox news" target="africanamerican"/>
+<edge source="fox news" target="last june"/>
+<edge source="fox news" target="new jersey"/>
+<edge source="fox news" target="chris christie"/>
+<edge source="fox news" target="africa"/>
+<edge source="fox news" target="americans"/>
+<edge source="fox news" target="central america"/>
+<edge source="fox news" target="stacey dash"/>
+<edge source="stacey" target="gop"/>
+<edge source="stacey" target="donald trump"/>
+<edge source="stacey" target="fox news"/>
+<edge source="stacey" target="jesse williams"/>
+<edge source="stacey" target="november"/>
+<edge source="stacey" target="california"/>
+<edge source="stacey" target="africanamerican"/>
+<edge source="stacey" target="last june"/>
+<edge source="stacey" target="new jersey"/>
+<edge source="stacey" target="chris christie"/>
+<edge source="stacey" target="africa"/>
+<edge source="stacey" target="americans"/>
+<edge source="stacey" target="central america"/>
+<edge source="stacey" target="stacey dash"/>
+<edge source="jesse williams" target="gop"/>
+<edge source="jesse williams" target="donald trump"/>
+<edge source="jesse williams" target="fox news"/>
+<edge source="jesse williams" target="stacey"/>
+<edge source="jesse williams" target="november"/>
+<edge source="jesse williams" target="california"/>
+<edge source="jesse williams" target="africanamerican"/>
+<edge source="jesse williams" target="last june"/>
+<edge source="jesse williams" target="new jersey"/>
+<edge source="jesse williams" target="chris christie"/>
+<edge source="jesse williams" target="africa"/>
+<edge source="jesse williams" target="americans"/>
+<edge source="jesse williams" target="central america"/>
+<edge source="jesse williams" target="stacey dash"/>
+<edge source="november" target="gop"/>
+<edge source="november" target="donald trump"/>
+<edge source="november" target="fox news"/>
+<edge source="november" target="stacey"/>
+<edge source="november" target="jesse williams"/>
+<edge source="november" target="california"/>
+<edge source="november" target="africanamerican"/>
+<edge source="november" target="last june"/>
+<edge source="november" target="new jersey"/>
+<edge source="november" target="chris christie"/>
+<edge source="november" target="africa"/>
+<edge source="november" target="americans"/>
+<edge source="november" target="central america"/>
+<edge source="november" target="stacey dash"/>
+<edge source="november" target="fbi"/>
+<edge source="november" target="james comeys"/>
+<edge source="november" target="clinton"/>
+<edge source="november" target="washington"/>
+<edge source="november" target="millions of dollars"/>
+<edge source="november" target="peter comey"/>
+<edge source="november" target="martin"/>
+<edge source="november" target="obama"/>
+<edge source="november" target="united states"/>
+<edge source="november" target="senate"/>
+<edge source="november" target="one year"/>
+<edge source="november" target="lockheed"/>
+<edge source="november" target="martin lockheed"/>
+<edge source="november" target="comey"/>
+<edge source="november" target="john ashcroft"/>
+<edge source="november" target="two years"/>
+<edge source="november" target="bush"/>
+<edge source="november" target="james comey"/>
+<edge source="november" target="his last year"/>
+<edge source="november" target="more than  million"/>
+<edge source="november" target="the american chamber of commerce"/>
+<edge source="november" target="egypt"/>
+<edge source="november" target="bill clinton"/>
+<edge source="november" target="hsbc"/>
+<edge source="november" target="london"/>
+<edge source="november" target="hsbc company"/>
+<edge source="november" target="the clinton foundation"/>
+<edge source="november" target="deutsche bank"/>
+<edge source="november" target="new york city"/>
+<edge source="november" target="peter comeys"/>
+<edge source="november" target="breitbart news"/>
+<edge source="november" target="vienna virginia"/>
+<edge source="november" target="june"/>
+<edge source="november" target="january"/>
+<edge source="november" target="that day"/>
+<edge source="california" target="gop"/>
+<edge source="california" target="donald trump"/>
+<edge source="california" target="fox news"/>
+<edge source="california" target="stacey"/>
+<edge source="california" target="jesse williams"/>
+<edge source="california" target="november"/>
+<edge source="california" target="africanamerican"/>
+<edge source="california" target="last june"/>
+<edge source="california" target="new jersey"/>
+<edge source="california" target="chris christie"/>
+<edge source="california" target="africa"/>
+<edge source="california" target="americans"/>
+<edge source="california" target="central america"/>
+<edge source="california" target="stacey dash"/>
+<edge source="africanamerican" target="gop"/>
+<edge source="africanamerican" target="donald trump"/>
+<edge source="africanamerican" target="fox news"/>
+<edge source="africanamerican" target="stacey"/>
+<edge source="africanamerican" target="jesse williams"/>
+<edge source="africanamerican" target="november"/>
+<edge source="africanamerican" target="california"/>
+<edge source="africanamerican" target="last june"/>
+<edge source="africanamerican" target="new jersey"/>
+<edge source="africanamerican" target="chris christie"/>
+<edge source="africanamerican" target="africa"/>
+<edge source="africanamerican" target="americans"/>
+<edge source="africanamerican" target="central america"/>
+<edge source="africanamerican" target="stacey dash"/>
+<edge source="last june" target="gop"/>
+<edge source="last june" target="donald trump"/>
+<edge source="last june" target="fox news"/>
+<edge source="last june" target="stacey"/>
+<edge source="last june" target="jesse williams"/>
+<edge source="last june" target="november"/>
+<edge source="last june" target="california"/>
+<edge source="last june" target="africanamerican"/>
+<edge source="last june" target="new jersey"/>
+<edge source="last june" target="chris christie"/>
+<edge source="last june" target="africa"/>
+<edge source="last june" target="americans"/>
+<edge source="last june" target="central america"/>
+<edge source="last june" target="stacey dash"/>
+<edge source="new jersey" target="gop"/>
+<edge source="new jersey" target="donald trump"/>
+<edge source="new jersey" target="fox news"/>
+<edge source="new jersey" target="stacey"/>
+<edge source="new jersey" target="jesse williams"/>
+<edge source="new jersey" target="november"/>
+<edge source="new jersey" target="california"/>
+<edge source="new jersey" target="africanamerican"/>
+<edge source="new jersey" target="last june"/>
+<edge source="new jersey" target="chris christie"/>
+<edge source="new jersey" target="africa"/>
+<edge source="new jersey" target="americans"/>
+<edge source="new jersey" target="central america"/>
+<edge source="new jersey" target="stacey dash"/>
+<edge source="chris christie" target="gop"/>
+<edge source="chris christie" target="donald trump"/>
+<edge source="chris christie" target="fox news"/>
+<edge source="chris christie" target="stacey"/>
+<edge source="chris christie" target="jesse williams"/>
+<edge source="chris christie" target="november"/>
+<edge source="chris christie" target="california"/>
+<edge source="chris christie" target="africanamerican"/>
+<edge source="chris christie" target="last june"/>
+<edge source="chris christie" target="new jersey"/>
+<edge source="chris christie" target="africa"/>
+<edge source="chris christie" target="americans"/>
+<edge source="chris christie" target="central america"/>
+<edge source="chris christie" target="stacey dash"/>
+<edge source="africa" target="gop"/>
+<edge source="africa" target="donald trump"/>
+<edge source="africa" target="fox news"/>
+<edge source="africa" target="stacey"/>
+<edge source="africa" target="jesse williams"/>
+<edge source="africa" target="november"/>
+<edge source="africa" target="california"/>
+<edge source="africa" target="africanamerican"/>
+<edge source="africa" target="last june"/>
+<edge source="africa" target="new jersey"/>
+<edge source="africa" target="chris christie"/>
+<edge source="africa" target="americans"/>
+<edge source="africa" target="central america"/>
+<edge source="africa" target="stacey dash"/>
+<edge source="americans" target="gop"/>
+<edge source="americans" target="donald trump"/>
+<edge source="americans" target="fox news"/>
+<edge source="americans" target="stacey"/>
+<edge source="americans" target="jesse williams"/>
+<edge source="americans" target="november"/>
+<edge source="americans" target="california"/>
+<edge source="americans" target="africanamerican"/>
+<edge source="americans" target="last june"/>
+<edge source="americans" target="new jersey"/>
+<edge source="americans" target="chris christie"/>
+<edge source="americans" target="africa"/>
+<edge source="americans" target="central america"/>
+<edge source="americans" target="stacey dash"/>
+<edge source="central america" target="gop"/>
+<edge source="central america" target="donald trump"/>
+<edge source="central america" target="fox news"/>
+<edge source="central america" target="stacey"/>
+<edge source="central america" target="jesse williams"/>
+<edge source="central america" target="november"/>
+<edge source="central america" target="california"/>
+<edge source="central america" target="africanamerican"/>
+<edge source="central america" target="last june"/>
+<edge source="central america" target="new jersey"/>
+<edge source="central america" target="chris christie"/>
+<edge source="central america" target="africa"/>
+<edge source="central america" target="americans"/>
+<edge source="central america" target="stacey dash"/>
+<edge source="stacey dash" target="gop"/>
+<edge source="stacey dash" target="donald trump"/>
+<edge source="stacey dash" target="fox news"/>
+<edge source="stacey dash" target="stacey"/>
+<edge source="stacey dash" target="jesse williams"/>
+<edge source="stacey dash" target="november"/>
+<edge source="stacey dash" target="california"/>
+<edge source="stacey dash" target="africanamerican"/>
+<edge source="stacey dash" target="last june"/>
+<edge source="stacey dash" target="new jersey"/>
+<edge source="stacey dash" target="chris christie"/>
+<edge source="stacey dash" target="africa"/>
+<edge source="stacey dash" target="americans"/>
+<edge source="stacey dash" target="central america"/>
+<edge source="more than two hours earlier today" target="donald trump"/>
+<edge source="more than two hours earlier today" target="new york"/>
+<edge source="more than two hours earlier today" target="mcmahon"/>
+<edge source="more than two hours earlier today" target="linda"/>
+<edge source="more than two hours earlier today" target="today"/>
+<edge source="more than two hours earlier today" target="texas"/>
+<edge source="more than two hours earlier today" target="vince mcmahon"/>
+<edge source="more than two hours earlier today" target="america"/>
+<edge source="new york" target="donald trump"/>
+<edge source="new york" target="more than two hours earlier today"/>
+<edge source="new york" target="mcmahon"/>
+<edge source="new york" target="linda"/>
+<edge source="new york" target="today"/>
+<edge source="new york" target="texas"/>
+<edge source="new york" target="vince mcmahon"/>
+<edge source="new york" target="america"/>
+<edge source="mcmahon" target="donald trump"/>
+<edge source="mcmahon" target="more than two hours earlier today"/>
+<edge source="mcmahon" target="new york"/>
+<edge source="mcmahon" target="linda"/>
+<edge source="mcmahon" target="today"/>
+<edge source="mcmahon" target="texas"/>
+<edge source="mcmahon" target="vince mcmahon"/>
+<edge source="mcmahon" target="america"/>
+<edge source="linda" target="donald trump"/>
+<edge source="linda" target="more than two hours earlier today"/>
+<edge source="linda" target="new york"/>
+<edge source="linda" target="mcmahon"/>
+<edge source="linda" target="today"/>
+<edge source="linda" target="texas"/>
+<edge source="linda" target="vince mcmahon"/>
+<edge source="linda" target="america"/>
+<edge source="texas" target="donald trump"/>
+<edge source="texas" target="more than two hours earlier today"/>
+<edge source="texas" target="new york"/>
+<edge source="texas" target="mcmahon"/>
+<edge source="texas" target="linda"/>
+<edge source="texas" target="today"/>
+<edge source="texas" target="vince mcmahon"/>
+<edge source="texas" target="america"/>
+<edge source="vince mcmahon" target="donald trump"/>
+<edge source="vince mcmahon" target="more than two hours earlier today"/>
+<edge source="vince mcmahon" target="new york"/>
+<edge source="vince mcmahon" target="mcmahon"/>
+<edge source="vince mcmahon" target="linda"/>
+<edge source="vince mcmahon" target="today"/>
+<edge source="vince mcmahon" target="texas"/>
+<edge source="vince mcmahon" target="america"/>
+<edge source="america" target="donald trump"/>
+<edge source="america" target="more than two hours earlier today"/>
+<edge source="america" target="new york"/>
+<edge source="america" target="mcmahon"/>
+<edge source="america" target="linda"/>
+<edge source="america" target="today"/>
+<edge source="america" target="texas"/>
+<edge source="america" target="vince mcmahon"/>
+<edge source="phoenix az" target="months"/>
+<edge source="phoenix az" target="today"/>
+<edge source="phoenix az" target="fountain hills"/>
+<edge source="phoenix az" target="arizona"/>
+<edge source="phoenix az" target="march"/>
+<edge source="phoenix az" target="paul horner"/>
+<edge source="phoenix az" target="horner disagrees"/>
+<edge source="phoenix az" target="clinton"/>
+<edge source="phoenix az" target="donald trump"/>
+<edge source="phoenix az" target="horner"/>
+<edge source="phoenix az" target="abc news"/>
+<edge source="phoenix az" target="smart"/>
+<edge source="phoenix az" target="tom downey"/>
+<edge source="phoenix az" target="mommys house"/>
+<edge source="phoenix az" target="muslims"/>
+<edge source="phoenix az" target="african americans"/>
+<edge source="phoenix az" target="asians"/>
+<edge source="phoenix az" target="half"/>
+<edge source="phoenix az" target="a few years"/>
+<edge source="phoenix az" target="sarah bradley"/>
+<edge source="phoenix az" target="the day"/>
+<edge source="phoenix az" target="david mikkelson"/>
+<edge source="phoenix az" target="snopescom"/>
+<edge source="phoenix az" target="a minute"/>
+<edge source="phoenix az" target="barbara"/>
+<edge source="phoenix az" target="mikkleson"/>
+<edge source="phoenix az" target="zero"/>
+<edge source="phoenix az" target="us mikkelson"/>
+<edge source="phoenix az" target="jeff zarronandia"/>
+<edge source="phoenix az" target="kim lacapria"/>
+<edge source="phoenix az" target="one day"/>
+<edge source="phoenix az" target="a given week"/>
+<edge source="phoenix az" target="about fifteen minutes"/>
+<edge source="months" target="phoenix az"/>
+<edge source="months" target="today"/>
+<edge source="months" target="fountain hills"/>
+<edge source="months" target="arizona"/>
+<edge source="months" target="march"/>
+<edge source="months" target="paul horner"/>
+<edge source="months" target="horner disagrees"/>
+<edge source="months" target="clinton"/>
+<edge source="months" target="donald trump"/>
+<edge source="months" target="horner"/>
+<edge source="months" target="abc news"/>
+<edge source="months" target="smart"/>
+<edge source="months" target="tom downey"/>
+<edge source="months" target="mommys house"/>
+<edge source="months" target="muslims"/>
+<edge source="months" target="african americans"/>
+<edge source="months" target="asians"/>
+<edge source="months" target="half"/>
+<edge source="months" target="a few years"/>
+<edge source="months" target="sarah bradley"/>
+<edge source="months" target="the day"/>
+<edge source="months" target="david mikkelson"/>
+<edge source="months" target="snopescom"/>
+<edge source="months" target="a minute"/>
+<edge source="months" target="barbara"/>
+<edge source="months" target="mikkleson"/>
+<edge source="months" target="zero"/>
+<edge source="months" target="us mikkelson"/>
+<edge source="months" target="jeff zarronandia"/>
+<edge source="months" target="kim lacapria"/>
+<edge source="months" target="one day"/>
+<edge source="months" target="a given week"/>
+<edge source="months" target="about fifteen minutes"/>
+<edge source="fountain hills" target="phoenix az"/>
+<edge source="fountain hills" target="months"/>
+<edge source="fountain hills" target="today"/>
+<edge source="fountain hills" target="arizona"/>
+<edge source="fountain hills" target="march"/>
+<edge source="fountain hills" target="paul horner"/>
+<edge source="fountain hills" target="horner disagrees"/>
+<edge source="fountain hills" target="clinton"/>
+<edge source="fountain hills" target="donald trump"/>
+<edge source="fountain hills" target="horner"/>
+<edge source="fountain hills" target="abc news"/>
+<edge source="fountain hills" target="smart"/>
+<edge source="fountain hills" target="tom downey"/>
+<edge source="fountain hills" target="mommys house"/>
+<edge source="fountain hills" target="muslims"/>
+<edge source="fountain hills" target="african americans"/>
+<edge source="fountain hills" target="asians"/>
+<edge source="fountain hills" target="half"/>
+<edge source="fountain hills" target="a few years"/>
+<edge source="fountain hills" target="sarah bradley"/>
+<edge source="fountain hills" target="the day"/>
+<edge source="fountain hills" target="david mikkelson"/>
+<edge source="fountain hills" target="snopescom"/>
+<edge source="fountain hills" target="a minute"/>
+<edge source="fountain hills" target="barbara"/>
+<edge source="fountain hills" target="mikkleson"/>
+<edge source="fountain hills" target="zero"/>
+<edge source="fountain hills" target="us mikkelson"/>
+<edge source="fountain hills" target="jeff zarronandia"/>
+<edge source="fountain hills" target="kim lacapria"/>
+<edge source="fountain hills" target="one day"/>
+<edge source="fountain hills" target="a given week"/>
+<edge source="fountain hills" target="about fifteen minutes"/>
+<edge source="arizona" target="phoenix az"/>
+<edge source="arizona" target="months"/>
+<edge source="arizona" target="today"/>
+<edge source="arizona" target="fountain hills"/>
+<edge source="arizona" target="march"/>
+<edge source="arizona" target="paul horner"/>
+<edge source="arizona" target="horner disagrees"/>
+<edge source="arizona" target="clinton"/>
+<edge source="arizona" target="donald trump"/>
+<edge source="arizona" target="horner"/>
+<edge source="arizona" target="abc news"/>
+<edge source="arizona" target="smart"/>
+<edge source="arizona" target="tom downey"/>
+<edge source="arizona" target="mommys house"/>
+<edge source="arizona" target="muslims"/>
+<edge source="arizona" target="african americans"/>
+<edge source="arizona" target="asians"/>
+<edge source="arizona" target="half"/>
+<edge source="arizona" target="a few years"/>
+<edge source="arizona" target="sarah bradley"/>
+<edge source="arizona" target="the day"/>
+<edge source="arizona" target="david mikkelson"/>
+<edge source="arizona" target="snopescom"/>
+<edge source="arizona" target="a minute"/>
+<edge source="arizona" target="barbara"/>
+<edge source="arizona" target="mikkleson"/>
+<edge source="arizona" target="zero"/>
+<edge source="arizona" target="us mikkelson"/>
+<edge source="arizona" target="jeff zarronandia"/>
+<edge source="arizona" target="kim lacapria"/>
+<edge source="arizona" target="one day"/>
+<edge source="arizona" target="a given week"/>
+<edge source="arizona" target="about fifteen minutes"/>
+<edge source="march" target="phoenix az"/>
+<edge source="march" target="months"/>
+<edge source="march" target="today"/>
+<edge source="march" target="fountain hills"/>
+<edge source="march" target="arizona"/>
+<edge source="march" target="paul horner"/>
+<edge source="march" target="horner disagrees"/>
+<edge source="march" target="clinton"/>
+<edge source="march" target="donald trump"/>
+<edge source="march" target="horner"/>
+<edge source="march" target="abc news"/>
+<edge source="march" target="smart"/>
+<edge source="march" target="tom downey"/>
+<edge source="march" target="mommys house"/>
+<edge source="march" target="muslims"/>
+<edge source="march" target="african americans"/>
+<edge source="march" target="asians"/>
+<edge source="march" target="half"/>
+<edge source="march" target="a few years"/>
+<edge source="march" target="sarah bradley"/>
+<edge source="march" target="the day"/>
+<edge source="march" target="david mikkelson"/>
+<edge source="march" target="snopescom"/>
+<edge source="march" target="a minute"/>
+<edge source="march" target="barbara"/>
+<edge source="march" target="mikkleson"/>
+<edge source="march" target="zero"/>
+<edge source="march" target="us mikkelson"/>
+<edge source="march" target="jeff zarronandia"/>
+<edge source="march" target="kim lacapria"/>
+<edge source="march" target="one day"/>
+<edge source="march" target="a given week"/>
+<edge source="march" target="about fifteen minutes"/>
+<edge source="paul horner" target="phoenix az"/>
+<edge source="paul horner" target="months"/>
+<edge source="paul horner" target="today"/>
+<edge source="paul horner" target="fountain hills"/>
+<edge source="paul horner" target="arizona"/>
+<edge source="paul horner" target="march"/>
+<edge source="paul horner" target="horner disagrees"/>
+<edge source="paul horner" target="clinton"/>
+<edge source="paul horner" target="donald trump"/>
+<edge source="paul horner" target="horner"/>
+<edge source="paul horner" target="abc news"/>
+<edge source="paul horner" target="smart"/>
+<edge source="paul horner" target="tom downey"/>
+<edge source="paul horner" target="mommys house"/>
+<edge source="paul horner" target="muslims"/>
+<edge source="paul horner" target="african americans"/>
+<edge source="paul horner" target="asians"/>
+<edge source="paul horner" target="half"/>
+<edge source="paul horner" target="a few years"/>
+<edge source="paul horner" target="sarah bradley"/>
+<edge source="paul horner" target="the day"/>
+<edge source="paul horner" target="david mikkelson"/>
+<edge source="paul horner" target="snopescom"/>
+<edge source="paul horner" target="a minute"/>
+<edge source="paul horner" target="barbara"/>
+<edge source="paul horner" target="mikkleson"/>
+<edge source="paul horner" target="zero"/>
+<edge source="paul horner" target="us mikkelson"/>
+<edge source="paul horner" target="jeff zarronandia"/>
+<edge source="paul horner" target="kim lacapria"/>
+<edge source="paul horner" target="one day"/>
+<edge source="paul horner" target="a given week"/>
+<edge source="paul horner" target="about fifteen minutes"/>
+<edge source="horner disagrees" target="phoenix az"/>
+<edge source="horner disagrees" target="months"/>
+<edge source="horner disagrees" target="today"/>
+<edge source="horner disagrees" target="fountain hills"/>
+<edge source="horner disagrees" target="arizona"/>
+<edge source="horner disagrees" target="march"/>
+<edge source="horner disagrees" target="paul horner"/>
+<edge source="horner disagrees" target="clinton"/>
+<edge source="horner disagrees" target="donald trump"/>
+<edge source="horner disagrees" target="horner"/>
+<edge source="horner disagrees" target="abc news"/>
+<edge source="horner disagrees" target="smart"/>
+<edge source="horner disagrees" target="tom downey"/>
+<edge source="horner disagrees" target="mommys house"/>
+<edge source="horner disagrees" target="muslims"/>
+<edge source="horner disagrees" target="african americans"/>
+<edge source="horner disagrees" target="asians"/>
+<edge source="horner disagrees" target="half"/>
+<edge source="horner disagrees" target="a few years"/>
+<edge source="horner disagrees" target="sarah bradley"/>
+<edge source="horner disagrees" target="the day"/>
+<edge source="horner disagrees" target="david mikkelson"/>
+<edge source="horner disagrees" target="snopescom"/>
+<edge source="horner disagrees" target="a minute"/>
+<edge source="horner disagrees" target="barbara"/>
+<edge source="horner disagrees" target="mikkleson"/>
+<edge source="horner disagrees" target="zero"/>
+<edge source="horner disagrees" target="us mikkelson"/>
+<edge source="horner disagrees" target="jeff zarronandia"/>
+<edge source="horner disagrees" target="kim lacapria"/>
+<edge source="horner disagrees" target="one day"/>
+<edge source="horner disagrees" target="a given week"/>
+<edge source="horner disagrees" target="about fifteen minutes"/>
+<edge source="clinton" target="phoenix az"/>
+<edge source="clinton" target="months"/>
+<edge source="clinton" target="today"/>
+<edge source="clinton" target="fountain hills"/>
+<edge source="clinton" target="arizona"/>
+<edge source="clinton" target="march"/>
+<edge source="clinton" target="paul horner"/>
+<edge source="clinton" target="horner disagrees"/>
+<edge source="clinton" target="donald trump"/>
+<edge source="clinton" target="horner"/>
+<edge source="clinton" target="abc news"/>
+<edge source="clinton" target="smart"/>
+<edge source="clinton" target="tom downey"/>
+<edge source="clinton" target="mommys house"/>
+<edge source="clinton" target="muslims"/>
+<edge source="clinton" target="african americans"/>
+<edge source="clinton" target="asians"/>
+<edge source="clinton" target="half"/>
+<edge source="clinton" target="a few years"/>
+<edge source="clinton" target="sarah bradley"/>
+<edge source="clinton" target="the day"/>
+<edge source="clinton" target="david mikkelson"/>
+<edge source="clinton" target="snopescom"/>
+<edge source="clinton" target="a minute"/>
+<edge source="clinton" target="barbara"/>
+<edge source="clinton" target="mikkleson"/>
+<edge source="clinton" target="zero"/>
+<edge source="clinton" target="us mikkelson"/>
+<edge source="clinton" target="jeff zarronandia"/>
+<edge source="clinton" target="kim lacapria"/>
+<edge source="clinton" target="one day"/>
+<edge source="clinton" target="a given week"/>
+<edge source="clinton" target="about fifteen minutes"/>
+<edge source="clinton" target="fbi"/>
+<edge source="clinton" target="james comeys"/>
+<edge source="clinton" target="washington"/>
+<edge source="clinton" target="millions of dollars"/>
+<edge source="clinton" target="peter comey"/>
+<edge source="clinton" target="martin"/>
+<edge source="clinton" target="obama"/>
+<edge source="clinton" target="united states"/>
+<edge source="clinton" target="senate"/>
+<edge source="clinton" target="one year"/>
+<edge source="clinton" target="lockheed"/>
+<edge source="clinton" target="martin lockheed"/>
+<edge source="clinton" target="comey"/>
+<edge source="clinton" target="john ashcroft"/>
+<edge source="clinton" target="two years"/>
+<edge source="clinton" target="bush"/>
+<edge source="clinton" target="james comey"/>
+<edge source="clinton" target="his last year"/>
+<edge source="clinton" target="more than  million"/>
+<edge source="clinton" target="the american chamber of commerce"/>
+<edge source="clinton" target="egypt"/>
+<edge source="clinton" target="bill clinton"/>
+<edge source="clinton" target="hsbc"/>
+<edge source="clinton" target="london"/>
+<edge source="clinton" target="hsbc company"/>
+<edge source="clinton" target="the clinton foundation"/>
+<edge source="clinton" target="deutsche bank"/>
+<edge source="clinton" target="new york city"/>
+<edge source="clinton" target="november"/>
+<edge source="clinton" target="peter comeys"/>
+<edge source="clinton" target="breitbart news"/>
+<edge source="clinton" target="vienna virginia"/>
+<edge source="clinton" target="june"/>
+<edge source="clinton" target="january"/>
+<edge source="clinton" target="that day"/>
+<edge source="clinton" target="democrat"/>
+<edge source="clinton" target="russia"/>
+<edge source="clinton" target="john"/>
+<edge source="clinton" target="miller"/>
+<edge source="clinton" target="chriswallace  pm   oct"/>
+<edge source="clinton" target="october"/>
+<edge source="clinton" target="kevin trump"/>
+<edge source="clinton" target="hillary"/>
+<edge source="clinton" target="tonight"/>
+<edge source="clinton" target="joe biden"/>
+<edge source="clinton" target="joseph shaw harpandjoseph"/>
+<edge source="horner" target="phoenix az"/>
+<edge source="horner" target="months"/>
+<edge source="horner" target="today"/>
+<edge source="horner" target="fountain hills"/>
+<edge source="horner" target="arizona"/>
+<edge source="horner" target="march"/>
+<edge source="horner" target="paul horner"/>
+<edge source="horner" target="horner disagrees"/>
+<edge source="horner" target="clinton"/>
+<edge source="horner" target="donald trump"/>
+<edge source="horner" target="abc news"/>
+<edge source="horner" target="smart"/>
+<edge source="horner" target="tom downey"/>
+<edge source="horner" target="mommys house"/>
+<edge source="horner" target="muslims"/>
+<edge source="horner" target="african americans"/>
+<edge source="horner" target="asians"/>
+<edge source="horner" target="half"/>
+<edge source="horner" target="a few years"/>
+<edge source="horner" target="sarah bradley"/>
+<edge source="horner" target="the day"/>
+<edge source="horner" target="david mikkelson"/>
+<edge source="horner" target="snopescom"/>
+<edge source="horner" target="a minute"/>
+<edge source="horner" target="barbara"/>
+<edge source="horner" target="mikkleson"/>
+<edge source="horner" target="zero"/>
+<edge source="horner" target="us mikkelson"/>
+<edge source="horner" target="jeff zarronandia"/>
+<edge source="horner" target="kim lacapria"/>
+<edge source="horner" target="one day"/>
+<edge source="horner" target="a given week"/>
+<edge source="horner" target="about fifteen minutes"/>
+<edge source="abc news" target="phoenix az"/>
+<edge source="abc news" target="months"/>
+<edge source="abc news" target="today"/>
+<edge source="abc news" target="fountain hills"/>
+<edge source="abc news" target="arizona"/>
+<edge source="abc news" target="march"/>
+<edge source="abc news" target="paul horner"/>
+<edge source="abc news" target="horner disagrees"/>
+<edge source="abc news" target="clinton"/>
+<edge source="abc news" target="donald trump"/>
+<edge source="abc news" target="horner"/>
+<edge source="abc news" target="smart"/>
+<edge source="abc news" target="tom downey"/>
+<edge source="abc news" target="mommys house"/>
+<edge source="abc news" target="muslims"/>
+<edge source="abc news" target="african americans"/>
+<edge source="abc news" target="asians"/>
+<edge source="abc news" target="half"/>
+<edge source="abc news" target="a few years"/>
+<edge source="abc news" target="sarah bradley"/>
+<edge source="abc news" target="the day"/>
+<edge source="abc news" target="david mikkelson"/>
+<edge source="abc news" target="snopescom"/>
+<edge source="abc news" target="a minute"/>
+<edge source="abc news" target="barbara"/>
+<edge source="abc news" target="mikkleson"/>
+<edge source="abc news" target="zero"/>
+<edge source="abc news" target="us mikkelson"/>
+<edge source="abc news" target="jeff zarronandia"/>
+<edge source="abc news" target="kim lacapria"/>
+<edge source="abc news" target="one day"/>
+<edge source="abc news" target="a given week"/>
+<edge source="abc news" target="about fifteen minutes"/>
+<edge source="smart" target="phoenix az"/>
+<edge source="smart" target="months"/>
+<edge source="smart" target="today"/>
+<edge source="smart" target="fountain hills"/>
+<edge source="smart" target="arizona"/>
+<edge source="smart" target="march"/>
+<edge source="smart" target="paul horner"/>
+<edge source="smart" target="horner disagrees"/>
+<edge source="smart" target="clinton"/>
+<edge source="smart" target="donald trump"/>
+<edge source="smart" target="horner"/>
+<edge source="smart" target="abc news"/>
+<edge source="smart" target="tom downey"/>
+<edge source="smart" target="mommys house"/>
+<edge source="smart" target="muslims"/>
+<edge source="smart" target="african americans"/>
+<edge source="smart" target="asians"/>
+<edge source="smart" target="half"/>
+<edge source="smart" target="a few years"/>
+<edge source="smart" target="sarah bradley"/>
+<edge source="smart" target="the day"/>
+<edge source="smart" target="david mikkelson"/>
+<edge source="smart" target="snopescom"/>
+<edge source="smart" target="a minute"/>
+<edge source="smart" target="barbara"/>
+<edge source="smart" target="mikkleson"/>
+<edge source="smart" target="zero"/>
+<edge source="smart" target="us mikkelson"/>
+<edge source="smart" target="jeff zarronandia"/>
+<edge source="smart" target="kim lacapria"/>
+<edge source="smart" target="one day"/>
+<edge source="smart" target="a given week"/>
+<edge source="smart" target="about fifteen minutes"/>
+<edge source="tom downey" target="phoenix az"/>
+<edge source="tom downey" target="months"/>
+<edge source="tom downey" target="today"/>
+<edge source="tom downey" target="fountain hills"/>
+<edge source="tom downey" target="arizona"/>
+<edge source="tom downey" target="march"/>
+<edge source="tom downey" target="paul horner"/>
+<edge source="tom downey" target="horner disagrees"/>
+<edge source="tom downey" target="clinton"/>
+<edge source="tom downey" target="donald trump"/>
+<edge source="tom downey" target="horner"/>
+<edge source="tom downey" target="abc news"/>
+<edge source="tom downey" target="smart"/>
+<edge source="tom downey" target="mommys house"/>
+<edge source="tom downey" target="muslims"/>
+<edge source="tom downey" target="african americans"/>
+<edge source="tom downey" target="asians"/>
+<edge source="tom downey" target="half"/>
+<edge source="tom downey" target="a few years"/>
+<edge source="tom downey" target="sarah bradley"/>
+<edge source="tom downey" target="the day"/>
+<edge source="tom downey" target="david mikkelson"/>
+<edge source="tom downey" target="snopescom"/>
+<edge source="tom downey" target="a minute"/>
+<edge source="tom downey" target="barbara"/>
+<edge source="tom downey" target="mikkleson"/>
+<edge source="tom downey" target="zero"/>
+<edge source="tom downey" target="us mikkelson"/>
+<edge source="tom downey" target="jeff zarronandia"/>
+<edge source="tom downey" target="kim lacapria"/>
+<edge source="tom downey" target="one day"/>
+<edge source="tom downey" target="a given week"/>
+<edge source="tom downey" target="about fifteen minutes"/>
+<edge source="mommys house" target="phoenix az"/>
+<edge source="mommys house" target="months"/>
+<edge source="mommys house" target="today"/>
+<edge source="mommys house" target="fountain hills"/>
+<edge source="mommys house" target="arizona"/>
+<edge source="mommys house" target="march"/>
+<edge source="mommys house" target="paul horner"/>
+<edge source="mommys house" target="horner disagrees"/>
+<edge source="mommys house" target="clinton"/>
+<edge source="mommys house" target="donald trump"/>
+<edge source="mommys house" target="horner"/>
+<edge source="mommys house" target="abc news"/>
+<edge source="mommys house" target="smart"/>
+<edge source="mommys house" target="tom downey"/>
+<edge source="mommys house" target="muslims"/>
+<edge source="mommys house" target="african americans"/>
+<edge source="mommys house" target="asians"/>
+<edge source="mommys house" target="half"/>
+<edge source="mommys house" target="a few years"/>
+<edge source="mommys house" target="sarah bradley"/>
+<edge source="mommys house" target="the day"/>
+<edge source="mommys house" target="david mikkelson"/>
+<edge source="mommys house" target="snopescom"/>
+<edge source="mommys house" target="a minute"/>
+<edge source="mommys house" target="barbara"/>
+<edge source="mommys house" target="mikkleson"/>
+<edge source="mommys house" target="zero"/>
+<edge source="mommys house" target="us mikkelson"/>
+<edge source="mommys house" target="jeff zarronandia"/>
+<edge source="mommys house" target="kim lacapria"/>
+<edge source="mommys house" target="one day"/>
+<edge source="mommys house" target="a given week"/>
+<edge source="mommys house" target="about fifteen minutes"/>
+<edge source="muslims" target="phoenix az"/>
+<edge source="muslims" target="months"/>
+<edge source="muslims" target="today"/>
+<edge source="muslims" target="fountain hills"/>
+<edge source="muslims" target="arizona"/>
+<edge source="muslims" target="march"/>
+<edge source="muslims" target="paul horner"/>
+<edge source="muslims" target="horner disagrees"/>
+<edge source="muslims" target="clinton"/>
+<edge source="muslims" target="donald trump"/>
+<edge source="muslims" target="horner"/>
+<edge source="muslims" target="abc news"/>
+<edge source="muslims" target="smart"/>
+<edge source="muslims" target="tom downey"/>
+<edge source="muslims" target="mommys house"/>
+<edge source="muslims" target="african americans"/>
+<edge source="muslims" target="asians"/>
+<edge source="muslims" target="half"/>
+<edge source="muslims" target="a few years"/>
+<edge source="muslims" target="sarah bradley"/>
+<edge source="muslims" target="the day"/>
+<edge source="muslims" target="david mikkelson"/>
+<edge source="muslims" target="snopescom"/>
+<edge source="muslims" target="a minute"/>
+<edge source="muslims" target="barbara"/>
+<edge source="muslims" target="mikkleson"/>
+<edge source="muslims" target="zero"/>
+<edge source="muslims" target="us mikkelson"/>
+<edge source="muslims" target="jeff zarronandia"/>
+<edge source="muslims" target="kim lacapria"/>
+<edge source="muslims" target="one day"/>
+<edge source="muslims" target="a given week"/>
+<edge source="muslims" target="about fifteen minutes"/>
+<edge source="african americans" target="phoenix az"/>
+<edge source="african americans" target="months"/>
+<edge source="african americans" target="today"/>
+<edge source="african americans" target="fountain hills"/>
+<edge source="african americans" target="arizona"/>
+<edge source="african americans" target="march"/>
+<edge source="african americans" target="paul horner"/>
+<edge source="african americans" target="horner disagrees"/>
+<edge source="african americans" target="clinton"/>
+<edge source="african americans" target="donald trump"/>
+<edge source="african americans" target="horner"/>
+<edge source="african americans" target="abc news"/>
+<edge source="african americans" target="smart"/>
+<edge source="african americans" target="tom downey"/>
+<edge source="african americans" target="mommys house"/>
+<edge source="african americans" target="muslims"/>
+<edge source="african americans" target="asians"/>
+<edge source="african americans" target="half"/>
+<edge source="african americans" target="a few years"/>
+<edge source="african americans" target="sarah bradley"/>
+<edge source="african americans" target="the day"/>
+<edge source="african americans" target="david mikkelson"/>
+<edge source="african americans" target="snopescom"/>
+<edge source="african americans" target="a minute"/>
+<edge source="african americans" target="barbara"/>
+<edge source="african americans" target="mikkleson"/>
+<edge source="african americans" target="zero"/>
+<edge source="african americans" target="us mikkelson"/>
+<edge source="african americans" target="jeff zarronandia"/>
+<edge source="african americans" target="kim lacapria"/>
+<edge source="african americans" target="one day"/>
+<edge source="african americans" target="a given week"/>
+<edge source="african americans" target="about fifteen minutes"/>
+<edge source="asians" target="phoenix az"/>
+<edge source="asians" target="months"/>
+<edge source="asians" target="today"/>
+<edge source="asians" target="fountain hills"/>
+<edge source="asians" target="arizona"/>
+<edge source="asians" target="march"/>
+<edge source="asians" target="paul horner"/>
+<edge source="asians" target="horner disagrees"/>
+<edge source="asians" target="clinton"/>
+<edge source="asians" target="donald trump"/>
+<edge source="asians" target="horner"/>
+<edge source="asians" target="abc news"/>
+<edge source="asians" target="smart"/>
+<edge source="asians" target="tom downey"/>
+<edge source="asians" target="mommys house"/>
+<edge source="asians" target="muslims"/>
+<edge source="asians" target="african americans"/>
+<edge source="asians" target="half"/>
+<edge source="asians" target="a few years"/>
+<edge source="asians" target="sarah bradley"/>
+<edge source="asians" target="the day"/>
+<edge source="asians" target="david mikkelson"/>
+<edge source="asians" target="snopescom"/>
+<edge source="asians" target="a minute"/>
+<edge source="asians" target="barbara"/>
+<edge source="asians" target="mikkleson"/>
+<edge source="asians" target="zero"/>
+<edge source="asians" target="us mikkelson"/>
+<edge source="asians" target="jeff zarronandia"/>
+<edge source="asians" target="kim lacapria"/>
+<edge source="asians" target="one day"/>
+<edge source="asians" target="a given week"/>
+<edge source="asians" target="about fifteen minutes"/>
+<edge source="half" target="phoenix az"/>
+<edge source="half" target="months"/>
+<edge source="half" target="today"/>
+<edge source="half" target="fountain hills"/>
+<edge source="half" target="arizona"/>
+<edge source="half" target="march"/>
+<edge source="half" target="paul horner"/>
+<edge source="half" target="horner disagrees"/>
+<edge source="half" target="clinton"/>
+<edge source="half" target="donald trump"/>
+<edge source="half" target="horner"/>
+<edge source="half" target="abc news"/>
+<edge source="half" target="smart"/>
+<edge source="half" target="tom downey"/>
+<edge source="half" target="mommys house"/>
+<edge source="half" target="muslims"/>
+<edge source="half" target="african americans"/>
+<edge source="half" target="asians"/>
+<edge source="half" target="a few years"/>
+<edge source="half" target="sarah bradley"/>
+<edge source="half" target="the day"/>
+<edge source="half" target="david mikkelson"/>
+<edge source="half" target="snopescom"/>
+<edge source="half" target="a minute"/>
+<edge source="half" target="barbara"/>
+<edge source="half" target="mikkleson"/>
+<edge source="half" target="zero"/>
+<edge source="half" target="us mikkelson"/>
+<edge source="half" target="jeff zarronandia"/>
+<edge source="half" target="kim lacapria"/>
+<edge source="half" target="one day"/>
+<edge source="half" target="a given week"/>
+<edge source="half" target="about fifteen minutes"/>
+<edge source="a few years" target="phoenix az"/>
+<edge source="a few years" target="months"/>
+<edge source="a few years" target="today"/>
+<edge source="a few years" target="fountain hills"/>
+<edge source="a few years" target="arizona"/>
+<edge source="a few years" target="march"/>
+<edge source="a few years" target="paul horner"/>
+<edge source="a few years" target="horner disagrees"/>
+<edge source="a few years" target="clinton"/>
+<edge source="a few years" target="donald trump"/>
+<edge source="a few years" target="horner"/>
+<edge source="a few years" target="abc news"/>
+<edge source="a few years" target="smart"/>
+<edge source="a few years" target="tom downey"/>
+<edge source="a few years" target="mommys house"/>
+<edge source="a few years" target="muslims"/>
+<edge source="a few years" target="african americans"/>
+<edge source="a few years" target="asians"/>
+<edge source="a few years" target="half"/>
+<edge source="a few years" target="sarah bradley"/>
+<edge source="a few years" target="the day"/>
+<edge source="a few years" target="david mikkelson"/>
+<edge source="a few years" target="snopescom"/>
+<edge source="a few years" target="a minute"/>
+<edge source="a few years" target="barbara"/>
+<edge source="a few years" target="mikkleson"/>
+<edge source="a few years" target="zero"/>
+<edge source="a few years" target="us mikkelson"/>
+<edge source="a few years" target="jeff zarronandia"/>
+<edge source="a few years" target="kim lacapria"/>
+<edge source="a few years" target="one day"/>
+<edge source="a few years" target="a given week"/>
+<edge source="a few years" target="about fifteen minutes"/>
+<edge source="sarah bradley" target="phoenix az"/>
+<edge source="sarah bradley" target="months"/>
+<edge source="sarah bradley" target="today"/>
+<edge source="sarah bradley" target="fountain hills"/>
+<edge source="sarah bradley" target="arizona"/>
+<edge source="sarah bradley" target="march"/>
+<edge source="sarah bradley" target="paul horner"/>
+<edge source="sarah bradley" target="horner disagrees"/>
+<edge source="sarah bradley" target="clinton"/>
+<edge source="sarah bradley" target="donald trump"/>
+<edge source="sarah bradley" target="horner"/>
+<edge source="sarah bradley" target="abc news"/>
+<edge source="sarah bradley" target="smart"/>
+<edge source="sarah bradley" target="tom downey"/>
+<edge source="sarah bradley" target="mommys house"/>
+<edge source="sarah bradley" target="muslims"/>
+<edge source="sarah bradley" target="african americans"/>
+<edge source="sarah bradley" target="asians"/>
+<edge source="sarah bradley" target="half"/>
+<edge source="sarah bradley" target="a few years"/>
+<edge source="sarah bradley" target="the day"/>
+<edge source="sarah bradley" target="david mikkelson"/>
+<edge source="sarah bradley" target="snopescom"/>
+<edge source="sarah bradley" target="a minute"/>
+<edge source="sarah bradley" target="barbara"/>
+<edge source="sarah bradley" target="mikkleson"/>
+<edge source="sarah bradley" target="zero"/>
+<edge source="sarah bradley" target="us mikkelson"/>
+<edge source="sarah bradley" target="jeff zarronandia"/>
+<edge source="sarah bradley" target="kim lacapria"/>
+<edge source="sarah bradley" target="one day"/>
+<edge source="sarah bradley" target="a given week"/>
+<edge source="sarah bradley" target="about fifteen minutes"/>
+<edge source="the day" target="phoenix az"/>
+<edge source="the day" target="months"/>
+<edge source="the day" target="today"/>
+<edge source="the day" target="fountain hills"/>
+<edge source="the day" target="arizona"/>
+<edge source="the day" target="march"/>
+<edge source="the day" target="paul horner"/>
+<edge source="the day" target="horner disagrees"/>
+<edge source="the day" target="clinton"/>
+<edge source="the day" target="donald trump"/>
+<edge source="the day" target="horner"/>
+<edge source="the day" target="abc news"/>
+<edge source="the day" target="smart"/>
+<edge source="the day" target="tom downey"/>
+<edge source="the day" target="mommys house"/>
+<edge source="the day" target="muslims"/>
+<edge source="the day" target="african americans"/>
+<edge source="the day" target="asians"/>
+<edge source="the day" target="half"/>
+<edge source="the day" target="a few years"/>
+<edge source="the day" target="sarah bradley"/>
+<edge source="the day" target="david mikkelson"/>
+<edge source="the day" target="snopescom"/>
+<edge source="the day" target="a minute"/>
+<edge source="the day" target="barbara"/>
+<edge source="the day" target="mikkleson"/>
+<edge source="the day" target="zero"/>
+<edge source="the day" target="us mikkelson"/>
+<edge source="the day" target="jeff zarronandia"/>
+<edge source="the day" target="kim lacapria"/>
+<edge source="the day" target="one day"/>
+<edge source="the day" target="a given week"/>
+<edge source="the day" target="about fifteen minutes"/>
+<edge source="david mikkelson" target="phoenix az"/>
+<edge source="david mikkelson" target="months"/>
+<edge source="david mikkelson" target="today"/>
+<edge source="david mikkelson" target="fountain hills"/>
+<edge source="david mikkelson" target="arizona"/>
+<edge source="david mikkelson" target="march"/>
+<edge source="david mikkelson" target="paul horner"/>
+<edge source="david mikkelson" target="horner disagrees"/>
+<edge source="david mikkelson" target="clinton"/>
+<edge source="david mikkelson" target="donald trump"/>
+<edge source="david mikkelson" target="horner"/>
+<edge source="david mikkelson" target="abc news"/>
+<edge source="david mikkelson" target="smart"/>
+<edge source="david mikkelson" target="tom downey"/>
+<edge source="david mikkelson" target="mommys house"/>
+<edge source="david mikkelson" target="muslims"/>
+<edge source="david mikkelson" target="african americans"/>
+<edge source="david mikkelson" target="asians"/>
+<edge source="david mikkelson" target="half"/>
+<edge source="david mikkelson" target="a few years"/>
+<edge source="david mikkelson" target="sarah bradley"/>
+<edge source="david mikkelson" target="the day"/>
+<edge source="david mikkelson" target="snopescom"/>
+<edge source="david mikkelson" target="a minute"/>
+<edge source="david mikkelson" target="barbara"/>
+<edge source="david mikkelson" target="mikkleson"/>
+<edge source="david mikkelson" target="zero"/>
+<edge source="david mikkelson" target="us mikkelson"/>
+<edge source="david mikkelson" target="jeff zarronandia"/>
+<edge source="david mikkelson" target="kim lacapria"/>
+<edge source="david mikkelson" target="one day"/>
+<edge source="david mikkelson" target="a given week"/>
+<edge source="david mikkelson" target="about fifteen minutes"/>
+<edge source="snopescom" target="phoenix az"/>
+<edge source="snopescom" target="months"/>
+<edge source="snopescom" target="today"/>
+<edge source="snopescom" target="fountain hills"/>
+<edge source="snopescom" target="arizona"/>
+<edge source="snopescom" target="march"/>
+<edge source="snopescom" target="paul horner"/>
+<edge source="snopescom" target="horner disagrees"/>
+<edge source="snopescom" target="clinton"/>
+<edge source="snopescom" target="donald trump"/>
+<edge source="snopescom" target="horner"/>
+<edge source="snopescom" target="abc news"/>
+<edge source="snopescom" target="smart"/>
+<edge source="snopescom" target="tom downey"/>
+<edge source="snopescom" target="mommys house"/>
+<edge source="snopescom" target="muslims"/>
+<edge source="snopescom" target="african americans"/>
+<edge source="snopescom" target="asians"/>
+<edge source="snopescom" target="half"/>
+<edge source="snopescom" target="a few years"/>
+<edge source="snopescom" target="sarah bradley"/>
+<edge source="snopescom" target="the day"/>
+<edge source="snopescom" target="david mikkelson"/>
+<edge source="snopescom" target="a minute"/>
+<edge source="snopescom" target="barbara"/>
+<edge source="snopescom" target="mikkleson"/>
+<edge source="snopescom" target="zero"/>
+<edge source="snopescom" target="us mikkelson"/>
+<edge source="snopescom" target="jeff zarronandia"/>
+<edge source="snopescom" target="kim lacapria"/>
+<edge source="snopescom" target="one day"/>
+<edge source="snopescom" target="a given week"/>
+<edge source="snopescom" target="about fifteen minutes"/>
+<edge source="a minute" target="phoenix az"/>
+<edge source="a minute" target="months"/>
+<edge source="a minute" target="today"/>
+<edge source="a minute" target="fountain hills"/>
+<edge source="a minute" target="arizona"/>
+<edge source="a minute" target="march"/>
+<edge source="a minute" target="paul horner"/>
+<edge source="a minute" target="horner disagrees"/>
+<edge source="a minute" target="clinton"/>
+<edge source="a minute" target="donald trump"/>
+<edge source="a minute" target="horner"/>
+<edge source="a minute" target="abc news"/>
+<edge source="a minute" target="smart"/>
+<edge source="a minute" target="tom downey"/>
+<edge source="a minute" target="mommys house"/>
+<edge source="a minute" target="muslims"/>
+<edge source="a minute" target="african americans"/>
+<edge source="a minute" target="asians"/>
+<edge source="a minute" target="half"/>
+<edge source="a minute" target="a few years"/>
+<edge source="a minute" target="sarah bradley"/>
+<edge source="a minute" target="the day"/>
+<edge source="a minute" target="david mikkelson"/>
+<edge source="a minute" target="snopescom"/>
+<edge source="a minute" target="barbara"/>
+<edge source="a minute" target="mikkleson"/>
+<edge source="a minute" target="zero"/>
+<edge source="a minute" target="us mikkelson"/>
+<edge source="a minute" target="jeff zarronandia"/>
+<edge source="a minute" target="kim lacapria"/>
+<edge source="a minute" target="one day"/>
+<edge source="a minute" target="a given week"/>
+<edge source="a minute" target="about fifteen minutes"/>
+<edge source="barbara" target="phoenix az"/>
+<edge source="barbara" target="months"/>
+<edge source="barbara" target="today"/>
+<edge source="barbara" target="fountain hills"/>
+<edge source="barbara" target="arizona"/>
+<edge source="barbara" target="march"/>
+<edge source="barbara" target="paul horner"/>
+<edge source="barbara" target="horner disagrees"/>
+<edge source="barbara" target="clinton"/>
+<edge source="barbara" target="donald trump"/>
+<edge source="barbara" target="horner"/>
+<edge source="barbara" target="abc news"/>
+<edge source="barbara" target="smart"/>
+<edge source="barbara" target="tom downey"/>
+<edge source="barbara" target="mommys house"/>
+<edge source="barbara" target="muslims"/>
+<edge source="barbara" target="african americans"/>
+<edge source="barbara" target="asians"/>
+<edge source="barbara" target="half"/>
+<edge source="barbara" target="a few years"/>
+<edge source="barbara" target="sarah bradley"/>
+<edge source="barbara" target="the day"/>
+<edge source="barbara" target="david mikkelson"/>
+<edge source="barbara" target="snopescom"/>
+<edge source="barbara" target="a minute"/>
+<edge source="barbara" target="mikkleson"/>
+<edge source="barbara" target="zero"/>
+<edge source="barbara" target="us mikkelson"/>
+<edge source="barbara" target="jeff zarronandia"/>
+<edge source="barbara" target="kim lacapria"/>
+<edge source="barbara" target="one day"/>
+<edge source="barbara" target="a given week"/>
+<edge source="barbara" target="about fifteen minutes"/>
+<edge source="mikkleson" target="phoenix az"/>
+<edge source="mikkleson" target="months"/>
+<edge source="mikkleson" target="today"/>
+<edge source="mikkleson" target="fountain hills"/>
+<edge source="mikkleson" target="arizona"/>
+<edge source="mikkleson" target="march"/>
+<edge source="mikkleson" target="paul horner"/>
+<edge source="mikkleson" target="horner disagrees"/>
+<edge source="mikkleson" target="clinton"/>
+<edge source="mikkleson" target="donald trump"/>
+<edge source="mikkleson" target="horner"/>
+<edge source="mikkleson" target="abc news"/>
+<edge source="mikkleson" target="smart"/>
+<edge source="mikkleson" target="tom downey"/>
+<edge source="mikkleson" target="mommys house"/>
+<edge source="mikkleson" target="muslims"/>
+<edge source="mikkleson" target="african americans"/>
+<edge source="mikkleson" target="asians"/>
+<edge source="mikkleson" target="half"/>
+<edge source="mikkleson" target="a few years"/>
+<edge source="mikkleson" target="sarah bradley"/>
+<edge source="mikkleson" target="the day"/>
+<edge source="mikkleson" target="david mikkelson"/>
+<edge source="mikkleson" target="snopescom"/>
+<edge source="mikkleson" target="a minute"/>
+<edge source="mikkleson" target="barbara"/>
+<edge source="mikkleson" target="zero"/>
+<edge source="mikkleson" target="us mikkelson"/>
+<edge source="mikkleson" target="jeff zarronandia"/>
+<edge source="mikkleson" target="kim lacapria"/>
+<edge source="mikkleson" target="one day"/>
+<edge source="mikkleson" target="a given week"/>
+<edge source="mikkleson" target="about fifteen minutes"/>
+<edge source="zero" target="phoenix az"/>
+<edge source="zero" target="months"/>
+<edge source="zero" target="today"/>
+<edge source="zero" target="fountain hills"/>
+<edge source="zero" target="arizona"/>
+<edge source="zero" target="march"/>
+<edge source="zero" target="paul horner"/>
+<edge source="zero" target="horner disagrees"/>
+<edge source="zero" target="clinton"/>
+<edge source="zero" target="donald trump"/>
+<edge source="zero" target="horner"/>
+<edge source="zero" target="abc news"/>
+<edge source="zero" target="smart"/>
+<edge source="zero" target="tom downey"/>
+<edge source="zero" target="mommys house"/>
+<edge source="zero" target="muslims"/>
+<edge source="zero" target="african americans"/>
+<edge source="zero" target="asians"/>
+<edge source="zero" target="half"/>
+<edge source="zero" target="a few years"/>
+<edge source="zero" target="sarah bradley"/>
+<edge source="zero" target="the day"/>
+<edge source="zero" target="david mikkelson"/>
+<edge source="zero" target="snopescom"/>
+<edge source="zero" target="a minute"/>
+<edge source="zero" target="barbara"/>
+<edge source="zero" target="mikkleson"/>
+<edge source="zero" target="us mikkelson"/>
+<edge source="zero" target="jeff zarronandia"/>
+<edge source="zero" target="kim lacapria"/>
+<edge source="zero" target="one day"/>
+<edge source="zero" target="a given week"/>
+<edge source="zero" target="about fifteen minutes"/>
+<edge source="us mikkelson" target="phoenix az"/>
+<edge source="us mikkelson" target="months"/>
+<edge source="us mikkelson" target="today"/>
+<edge source="us mikkelson" target="fountain hills"/>
+<edge source="us mikkelson" target="arizona"/>
+<edge source="us mikkelson" target="march"/>
+<edge source="us mikkelson" target="paul horner"/>
+<edge source="us mikkelson" target="horner disagrees"/>
+<edge source="us mikkelson" target="clinton"/>
+<edge source="us mikkelson" target="donald trump"/>
+<edge source="us mikkelson" target="horner"/>
+<edge source="us mikkelson" target="abc news"/>
+<edge source="us mikkelson" target="smart"/>
+<edge source="us mikkelson" target="tom downey"/>
+<edge source="us mikkelson" target="mommys house"/>
+<edge source="us mikkelson" target="muslims"/>
+<edge source="us mikkelson" target="african americans"/>
+<edge source="us mikkelson" target="asians"/>
+<edge source="us mikkelson" target="half"/>
+<edge source="us mikkelson" target="a few years"/>
+<edge source="us mikkelson" target="sarah bradley"/>
+<edge source="us mikkelson" target="the day"/>
+<edge source="us mikkelson" target="david mikkelson"/>
+<edge source="us mikkelson" target="snopescom"/>
+<edge source="us mikkelson" target="a minute"/>
+<edge source="us mikkelson" target="barbara"/>
+<edge source="us mikkelson" target="mikkleson"/>
+<edge source="us mikkelson" target="zero"/>
+<edge source="us mikkelson" target="jeff zarronandia"/>
+<edge source="us mikkelson" target="kim lacapria"/>
+<edge source="us mikkelson" target="one day"/>
+<edge source="us mikkelson" target="a given week"/>
+<edge source="us mikkelson" target="about fifteen minutes"/>
+<edge source="jeff zarronandia" target="phoenix az"/>
+<edge source="jeff zarronandia" target="months"/>
+<edge source="jeff zarronandia" target="today"/>
+<edge source="jeff zarronandia" target="fountain hills"/>
+<edge source="jeff zarronandia" target="arizona"/>
+<edge source="jeff zarronandia" target="march"/>
+<edge source="jeff zarronandia" target="paul horner"/>
+<edge source="jeff zarronandia" target="horner disagrees"/>
+<edge source="jeff zarronandia" target="clinton"/>
+<edge source="jeff zarronandia" target="donald trump"/>
+<edge source="jeff zarronandia" target="horner"/>
+<edge source="jeff zarronandia" target="abc news"/>
+<edge source="jeff zarronandia" target="smart"/>
+<edge source="jeff zarronandia" target="tom downey"/>
+<edge source="jeff zarronandia" target="mommys house"/>
+<edge source="jeff zarronandia" target="muslims"/>
+<edge source="jeff zarronandia" target="african americans"/>
+<edge source="jeff zarronandia" target="asians"/>
+<edge source="jeff zarronandia" target="half"/>
+<edge source="jeff zarronandia" target="a few years"/>
+<edge source="jeff zarronandia" target="sarah bradley"/>
+<edge source="jeff zarronandia" target="the day"/>
+<edge source="jeff zarronandia" target="david mikkelson"/>
+<edge source="jeff zarronandia" target="snopescom"/>
+<edge source="jeff zarronandia" target="a minute"/>
+<edge source="jeff zarronandia" target="barbara"/>
+<edge source="jeff zarronandia" target="mikkleson"/>
+<edge source="jeff zarronandia" target="zero"/>
+<edge source="jeff zarronandia" target="us mikkelson"/>
+<edge source="jeff zarronandia" target="kim lacapria"/>
+<edge source="jeff zarronandia" target="one day"/>
+<edge source="jeff zarronandia" target="a given week"/>
+<edge source="jeff zarronandia" target="about fifteen minutes"/>
+<edge source="kim lacapria" target="phoenix az"/>
+<edge source="kim lacapria" target="months"/>
+<edge source="kim lacapria" target="today"/>
+<edge source="kim lacapria" target="fountain hills"/>
+<edge source="kim lacapria" target="arizona"/>
+<edge source="kim lacapria" target="march"/>
+<edge source="kim lacapria" target="paul horner"/>
+<edge source="kim lacapria" target="horner disagrees"/>
+<edge source="kim lacapria" target="clinton"/>
+<edge source="kim lacapria" target="donald trump"/>
+<edge source="kim lacapria" target="horner"/>
+<edge source="kim lacapria" target="abc news"/>
+<edge source="kim lacapria" target="smart"/>
+<edge source="kim lacapria" target="tom downey"/>
+<edge source="kim lacapria" target="mommys house"/>
+<edge source="kim lacapria" target="muslims"/>
+<edge source="kim lacapria" target="african americans"/>
+<edge source="kim lacapria" target="asians"/>
+<edge source="kim lacapria" target="half"/>
+<edge source="kim lacapria" target="a few years"/>
+<edge source="kim lacapria" target="sarah bradley"/>
+<edge source="kim lacapria" target="the day"/>
+<edge source="kim lacapria" target="david mikkelson"/>
+<edge source="kim lacapria" target="snopescom"/>
+<edge source="kim lacapria" target="a minute"/>
+<edge source="kim lacapria" target="barbara"/>
+<edge source="kim lacapria" target="mikkleson"/>
+<edge source="kim lacapria" target="zero"/>
+<edge source="kim lacapria" target="us mikkelson"/>
+<edge source="kim lacapria" target="jeff zarronandia"/>
+<edge source="kim lacapria" target="one day"/>
+<edge source="kim lacapria" target="a given week"/>
+<edge source="kim lacapria" target="about fifteen minutes"/>
+<edge source="one day" target="phoenix az"/>
+<edge source="one day" target="months"/>
+<edge source="one day" target="today"/>
+<edge source="one day" target="fountain hills"/>
+<edge source="one day" target="arizona"/>
+<edge source="one day" target="march"/>
+<edge source="one day" target="paul horner"/>
+<edge source="one day" target="horner disagrees"/>
+<edge source="one day" target="clinton"/>
+<edge source="one day" target="donald trump"/>
+<edge source="one day" target="horner"/>
+<edge source="one day" target="abc news"/>
+<edge source="one day" target="smart"/>
+<edge source="one day" target="tom downey"/>
+<edge source="one day" target="mommys house"/>
+<edge source="one day" target="muslims"/>
+<edge source="one day" target="african americans"/>
+<edge source="one day" target="asians"/>
+<edge source="one day" target="half"/>
+<edge source="one day" target="a few years"/>
+<edge source="one day" target="sarah bradley"/>
+<edge source="one day" target="the day"/>
+<edge source="one day" target="david mikkelson"/>
+<edge source="one day" target="snopescom"/>
+<edge source="one day" target="a minute"/>
+<edge source="one day" target="barbara"/>
+<edge source="one day" target="mikkleson"/>
+<edge source="one day" target="zero"/>
+<edge source="one day" target="us mikkelson"/>
+<edge source="one day" target="jeff zarronandia"/>
+<edge source="one day" target="kim lacapria"/>
+<edge source="one day" target="a given week"/>
+<edge source="one day" target="about fifteen minutes"/>
+<edge source="a given week" target="phoenix az"/>
+<edge source="a given week" target="months"/>
+<edge source="a given week" target="today"/>
+<edge source="a given week" target="fountain hills"/>
+<edge source="a given week" target="arizona"/>
+<edge source="a given week" target="march"/>
+<edge source="a given week" target="paul horner"/>
+<edge source="a given week" target="horner disagrees"/>
+<edge source="a given week" target="clinton"/>
+<edge source="a given week" target="donald trump"/>
+<edge source="a given week" target="horner"/>
+<edge source="a given week" target="abc news"/>
+<edge source="a given week" target="smart"/>
+<edge source="a given week" target="tom downey"/>
+<edge source="a given week" target="mommys house"/>
+<edge source="a given week" target="muslims"/>
+<edge source="a given week" target="african americans"/>
+<edge source="a given week" target="asians"/>
+<edge source="a given week" target="half"/>
+<edge source="a given week" target="a few years"/>
+<edge source="a given week" target="sarah bradley"/>
+<edge source="a given week" target="the day"/>
+<edge source="a given week" target="david mikkelson"/>
+<edge source="a given week" target="snopescom"/>
+<edge source="a given week" target="a minute"/>
+<edge source="a given week" target="barbara"/>
+<edge source="a given week" target="mikkleson"/>
+<edge source="a given week" target="zero"/>
+<edge source="a given week" target="us mikkelson"/>
+<edge source="a given week" target="jeff zarronandia"/>
+<edge source="a given week" target="kim lacapria"/>
+<edge source="a given week" target="one day"/>
+<edge source="a given week" target="about fifteen minutes"/>
+<edge source="about fifteen minutes" target="phoenix az"/>
+<edge source="about fifteen minutes" target="months"/>
+<edge source="about fifteen minutes" target="today"/>
+<edge source="about fifteen minutes" target="fountain hills"/>
+<edge source="about fifteen minutes" target="arizona"/>
+<edge source="about fifteen minutes" target="march"/>
+<edge source="about fifteen minutes" target="paul horner"/>
+<edge source="about fifteen minutes" target="horner disagrees"/>
+<edge source="about fifteen minutes" target="clinton"/>
+<edge source="about fifteen minutes" target="donald trump"/>
+<edge source="about fifteen minutes" target="horner"/>
+<edge source="about fifteen minutes" target="abc news"/>
+<edge source="about fifteen minutes" target="smart"/>
+<edge source="about fifteen minutes" target="tom downey"/>
+<edge source="about fifteen minutes" target="mommys house"/>
+<edge source="about fifteen minutes" target="muslims"/>
+<edge source="about fifteen minutes" target="african americans"/>
+<edge source="about fifteen minutes" target="asians"/>
+<edge source="about fifteen minutes" target="half"/>
+<edge source="about fifteen minutes" target="a few years"/>
+<edge source="about fifteen minutes" target="sarah bradley"/>
+<edge source="about fifteen minutes" target="the day"/>
+<edge source="about fifteen minutes" target="david mikkelson"/>
+<edge source="about fifteen minutes" target="snopescom"/>
+<edge source="about fifteen minutes" target="a minute"/>
+<edge source="about fifteen minutes" target="barbara"/>
+<edge source="about fifteen minutes" target="mikkleson"/>
+<edge source="about fifteen minutes" target="zero"/>
+<edge source="about fifteen minutes" target="us mikkelson"/>
+<edge source="about fifteen minutes" target="jeff zarronandia"/>
+<edge source="about fifteen minutes" target="kim lacapria"/>
+<edge source="about fifteen minutes" target="one day"/>
+<edge source="about fifteen minutes" target="a given week"/>
+<edge source="north carolina" target="miami"/>
+<edge source="north carolina" target="florida"/>
+<edge source="north carolina" target="nearly six months"/>
+<edge source="north carolina" target="that day"/>
+<edge source="north carolina" target="the next few weeks"/>
+<edge source="north carolina" target="saudi arabia"/>
+<edge source="north carolina" target="eastern"/>
+<edge source="north carolina" target="korean"/>
+<edge source="miami" target="north carolina"/>
+<edge source="miami" target="florida"/>
+<edge source="miami" target="nearly six months"/>
+<edge source="miami" target="that day"/>
+<edge source="miami" target="the next few weeks"/>
+<edge source="miami" target="saudi arabia"/>
+<edge source="miami" target="eastern"/>
+<edge source="miami" target="korean"/>
+<edge source="florida" target="north carolina"/>
+<edge source="florida" target="miami"/>
+<edge source="florida" target="nearly six months"/>
+<edge source="florida" target="that day"/>
+<edge source="florida" target="the next few weeks"/>
+<edge source="florida" target="saudi arabia"/>
+<edge source="florida" target="eastern"/>
+<edge source="florida" target="korean"/>
+<edge source="nearly six months" target="north carolina"/>
+<edge source="nearly six months" target="miami"/>
+<edge source="nearly six months" target="florida"/>
+<edge source="nearly six months" target="that day"/>
+<edge source="nearly six months" target="the next few weeks"/>
+<edge source="nearly six months" target="saudi arabia"/>
+<edge source="nearly six months" target="eastern"/>
+<edge source="nearly six months" target="korean"/>
+<edge source="that day" target="north carolina"/>
+<edge source="that day" target="miami"/>
+<edge source="that day" target="florida"/>
+<edge source="that day" target="nearly six months"/>
+<edge source="that day" target="the next few weeks"/>
+<edge source="that day" target="saudi arabia"/>
+<edge source="that day" target="eastern"/>
+<edge source="that day" target="korean"/>
+<edge source="that day" target="fbi"/>
+<edge source="that day" target="james comeys"/>
+<edge source="that day" target="clinton"/>
+<edge source="that day" target="washington"/>
+<edge source="that day" target="millions of dollars"/>
+<edge source="that day" target="peter comey"/>
+<edge source="that day" target="martin"/>
+<edge source="that day" target="obama"/>
+<edge source="that day" target="united states"/>
+<edge source="that day" target="senate"/>
+<edge source="that day" target="one year"/>
+<edge source="that day" target="lockheed"/>
+<edge source="that day" target="martin lockheed"/>
+<edge source="that day" target="comey"/>
+<edge source="that day" target="john ashcroft"/>
+<edge source="that day" target="two years"/>
+<edge source="that day" target="bush"/>
+<edge source="that day" target="james comey"/>
+<edge source="that day" target="his last year"/>
+<edge source="that day" target="more than  million"/>
+<edge source="that day" target="the american chamber of commerce"/>
+<edge source="that day" target="egypt"/>
+<edge source="that day" target="bill clinton"/>
+<edge source="that day" target="hsbc"/>
+<edge source="that day" target="london"/>
+<edge source="that day" target="hsbc company"/>
+<edge source="that day" target="the clinton foundation"/>
+<edge source="that day" target="deutsche bank"/>
+<edge source="that day" target="new york city"/>
+<edge source="that day" target="november"/>
+<edge source="that day" target="peter comeys"/>
+<edge source="that day" target="breitbart news"/>
+<edge source="that day" target="vienna virginia"/>
+<edge source="that day" target="june"/>
+<edge source="that day" target="january"/>
+<edge source="the next few weeks" target="north carolina"/>
+<edge source="the next few weeks" target="miami"/>
+<edge source="the next few weeks" target="florida"/>
+<edge source="the next few weeks" target="nearly six months"/>
+<edge source="the next few weeks" target="that day"/>
+<edge source="the next few weeks" target="saudi arabia"/>
+<edge source="the next few weeks" target="eastern"/>
+<edge source="the next few weeks" target="korean"/>
+<edge source="saudi arabia" target="north carolina"/>
+<edge source="saudi arabia" target="miami"/>
+<edge source="saudi arabia" target="florida"/>
+<edge source="saudi arabia" target="nearly six months"/>
+<edge source="saudi arabia" target="that day"/>
+<edge source="saudi arabia" target="the next few weeks"/>
+<edge source="saudi arabia" target="eastern"/>
+<edge source="saudi arabia" target="korean"/>
+<edge source="eastern" target="north carolina"/>
+<edge source="eastern" target="miami"/>
+<edge source="eastern" target="florida"/>
+<edge source="eastern" target="nearly six months"/>
+<edge source="eastern" target="that day"/>
+<edge source="eastern" target="the next few weeks"/>
+<edge source="eastern" target="saudi arabia"/>
+<edge source="eastern" target="korean"/>
+<edge source="korean" target="north carolina"/>
+<edge source="korean" target="miami"/>
+<edge source="korean" target="florida"/>
+<edge source="korean" target="nearly six months"/>
+<edge source="korean" target="that day"/>
+<edge source="korean" target="the next few weeks"/>
+<edge source="korean" target="saudi arabia"/>
+<edge source="korean" target="eastern"/>
+<edge source="supreme courts" target="christian"/>
+<edge source="supreme courts" target="david brody"/>
+<edge source="supreme courts" target="gop"/>
+<edge source="supreme courts" target="republicans"/>
+<edge source="supreme courts" target="republican"/>
+<edge source="christian" target="supreme courts"/>
+<edge source="christian" target="david brody"/>
+<edge source="christian" target="gop"/>
+<edge source="christian" target="republicans"/>
+<edge source="christian" target="republican"/>
+<edge source="david brody" target="supreme courts"/>
+<edge source="david brody" target="christian"/>
+<edge source="david brody" target="gop"/>
+<edge source="david brody" target="republicans"/>
+<edge source="david brody" target="republican"/>
+<edge source="republicans" target="supreme courts"/>
+<edge source="republicans" target="christian"/>
+<edge source="republicans" target="david brody"/>
+<edge source="republicans" target="gop"/>
+<edge source="republicans" target="republican"/>
+<edge source="republican" target="supreme courts"/>
+<edge source="republican" target="christian"/>
+<edge source="republican" target="david brody"/>
+<edge source="republican" target="gop"/>
+<edge source="republican" target="republicans"/>
+<edge source="fbi" target="james comeys"/>
+<edge source="fbi" target="clinton"/>
+<edge source="fbi" target="washington"/>
+<edge source="fbi" target="millions of dollars"/>
+<edge source="fbi" target="peter comey"/>
+<edge source="fbi" target="martin"/>
+<edge source="fbi" target="obama"/>
+<edge source="fbi" target="united states"/>
+<edge source="fbi" target="senate"/>
+<edge source="fbi" target="one year"/>
+<edge source="fbi" target="lockheed"/>
+<edge source="fbi" target="martin lockheed"/>
+<edge source="fbi" target="comey"/>
+<edge source="fbi" target="john ashcroft"/>
+<edge source="fbi" target="two years"/>
+<edge source="fbi" target="bush"/>
+<edge source="fbi" target="james comey"/>
+<edge source="fbi" target="his last year"/>
+<edge source="fbi" target="more than  million"/>
+<edge source="fbi" target="the american chamber of commerce"/>
+<edge source="fbi" target="egypt"/>
+<edge source="fbi" target="bill clinton"/>
+<edge source="fbi" target="hsbc"/>
+<edge source="fbi" target="london"/>
+<edge source="fbi" target="hsbc company"/>
+<edge source="fbi" target="the clinton foundation"/>
+<edge source="fbi" target="deutsche bank"/>
+<edge source="fbi" target="new york city"/>
+<edge source="fbi" target="november"/>
+<edge source="fbi" target="peter comeys"/>
+<edge source="fbi" target="breitbart news"/>
+<edge source="fbi" target="vienna virginia"/>
+<edge source="fbi" target="june"/>
+<edge source="fbi" target="january"/>
+<edge source="fbi" target="that day"/>
+<edge source="james comeys" target="fbi"/>
+<edge source="james comeys" target="clinton"/>
+<edge source="james comeys" target="washington"/>
+<edge source="james comeys" target="millions of dollars"/>
+<edge source="james comeys" target="peter comey"/>
+<edge source="james comeys" target="martin"/>
+<edge source="james comeys" target="obama"/>
+<edge source="james comeys" target="united states"/>
+<edge source="james comeys" target="senate"/>
+<edge source="james comeys" target="one year"/>
+<edge source="james comeys" target="lockheed"/>
+<edge source="james comeys" target="martin lockheed"/>
+<edge source="james comeys" target="comey"/>
+<edge source="james comeys" target="john ashcroft"/>
+<edge source="james comeys" target="two years"/>
+<edge source="james comeys" target="bush"/>
+<edge source="james comeys" target="james comey"/>
+<edge source="james comeys" target="his last year"/>
+<edge source="james comeys" target="more than  million"/>
+<edge source="james comeys" target="the american chamber of commerce"/>
+<edge source="james comeys" target="egypt"/>
+<edge source="james comeys" target="bill clinton"/>
+<edge source="james comeys" target="hsbc"/>
+<edge source="james comeys" target="london"/>
+<edge source="james comeys" target="hsbc company"/>
+<edge source="james comeys" target="the clinton foundation"/>
+<edge source="james comeys" target="deutsche bank"/>
+<edge source="james comeys" target="new york city"/>
+<edge source="james comeys" target="november"/>
+<edge source="james comeys" target="peter comeys"/>
+<edge source="james comeys" target="breitbart news"/>
+<edge source="james comeys" target="vienna virginia"/>
+<edge source="james comeys" target="june"/>
+<edge source="james comeys" target="january"/>
+<edge source="james comeys" target="that day"/>
+<edge source="washington" target="fbi"/>
+<edge source="washington" target="james comeys"/>
+<edge source="washington" target="clinton"/>
+<edge source="washington" target="millions of dollars"/>
+<edge source="washington" target="peter comey"/>
+<edge source="washington" target="martin"/>
+<edge source="washington" target="obama"/>
+<edge source="washington" target="united states"/>
+<edge source="washington" target="senate"/>
+<edge source="washington" target="one year"/>
+<edge source="washington" target="lockheed"/>
+<edge source="washington" target="martin lockheed"/>
+<edge source="washington" target="comey"/>
+<edge source="washington" target="john ashcroft"/>
+<edge source="washington" target="two years"/>
+<edge source="washington" target="bush"/>
+<edge source="washington" target="james comey"/>
+<edge source="washington" target="his last year"/>
+<edge source="washington" target="more than  million"/>
+<edge source="washington" target="the american chamber of commerce"/>
+<edge source="washington" target="egypt"/>
+<edge source="washington" target="bill clinton"/>
+<edge source="washington" target="hsbc"/>
+<edge source="washington" target="london"/>
+<edge source="washington" target="hsbc company"/>
+<edge source="washington" target="the clinton foundation"/>
+<edge source="washington" target="deutsche bank"/>
+<edge source="washington" target="new york city"/>
+<edge source="washington" target="november"/>
+<edge source="washington" target="peter comeys"/>
+<edge source="washington" target="breitbart news"/>
+<edge source="washington" target="vienna virginia"/>
+<edge source="washington" target="june"/>
+<edge source="washington" target="january"/>
+<edge source="washington" target="that day"/>
+<edge source="millions of dollars" target="fbi"/>
+<edge source="millions of dollars" target="james comeys"/>
+<edge source="millions of dollars" target="clinton"/>
+<edge source="millions of dollars" target="washington"/>
+<edge source="millions of dollars" target="peter comey"/>
+<edge source="millions of dollars" target="martin"/>
+<edge source="millions of dollars" target="obama"/>
+<edge source="millions of dollars" target="united states"/>
+<edge source="millions of dollars" target="senate"/>
+<edge source="millions of dollars" target="one year"/>
+<edge source="millions of dollars" target="lockheed"/>
+<edge source="millions of dollars" target="martin lockheed"/>
+<edge source="millions of dollars" target="comey"/>
+<edge source="millions of dollars" target="john ashcroft"/>
+<edge source="millions of dollars" target="two years"/>
+<edge source="millions of dollars" target="bush"/>
+<edge source="millions of dollars" target="james comey"/>
+<edge source="millions of dollars" target="his last year"/>
+<edge source="millions of dollars" target="more than  million"/>
+<edge source="millions of dollars" target="the american chamber of commerce"/>
+<edge source="millions of dollars" target="egypt"/>
+<edge source="millions of dollars" target="bill clinton"/>
+<edge source="millions of dollars" target="hsbc"/>
+<edge source="millions of dollars" target="london"/>
+<edge source="millions of dollars" target="hsbc company"/>
+<edge source="millions of dollars" target="the clinton foundation"/>
+<edge source="millions of dollars" target="deutsche bank"/>
+<edge source="millions of dollars" target="new york city"/>
+<edge source="millions of dollars" target="november"/>
+<edge source="millions of dollars" target="peter comeys"/>
+<edge source="millions of dollars" target="breitbart news"/>
+<edge source="millions of dollars" target="vienna virginia"/>
+<edge source="millions of dollars" target="june"/>
+<edge source="millions of dollars" target="january"/>
+<edge source="millions of dollars" target="that day"/>
+<edge source="peter comey" target="fbi"/>
+<edge source="peter comey" target="james comeys"/>
+<edge source="peter comey" target="clinton"/>
+<edge source="peter comey" target="washington"/>
+<edge source="peter comey" target="millions of dollars"/>
+<edge source="peter comey" target="martin"/>
+<edge source="peter comey" target="obama"/>
+<edge source="peter comey" target="united states"/>
+<edge source="peter comey" target="senate"/>
+<edge source="peter comey" target="one year"/>
+<edge source="peter comey" target="lockheed"/>
+<edge source="peter comey" target="martin lockheed"/>
+<edge source="peter comey" target="comey"/>
+<edge source="peter comey" target="john ashcroft"/>
+<edge source="peter comey" target="two years"/>
+<edge source="peter comey" target="bush"/>
+<edge source="peter comey" target="james comey"/>
+<edge source="peter comey" target="his last year"/>
+<edge source="peter comey" target="more than  million"/>
+<edge source="peter comey" target="the american chamber of commerce"/>
+<edge source="peter comey" target="egypt"/>
+<edge source="peter comey" target="bill clinton"/>
+<edge source="peter comey" target="hsbc"/>
+<edge source="peter comey" target="london"/>
+<edge source="peter comey" target="hsbc company"/>
+<edge source="peter comey" target="the clinton foundation"/>
+<edge source="peter comey" target="deutsche bank"/>
+<edge source="peter comey" target="new york city"/>
+<edge source="peter comey" target="november"/>
+<edge source="peter comey" target="peter comeys"/>
+<edge source="peter comey" target="breitbart news"/>
+<edge source="peter comey" target="vienna virginia"/>
+<edge source="peter comey" target="june"/>
+<edge source="peter comey" target="january"/>
+<edge source="peter comey" target="that day"/>
+<edge source="martin" target="fbi"/>
+<edge source="martin" target="james comeys"/>
+<edge source="martin" target="clinton"/>
+<edge source="martin" target="washington"/>
+<edge source="martin" target="millions of dollars"/>
+<edge source="martin" target="peter comey"/>
+<edge source="martin" target="obama"/>
+<edge source="martin" target="united states"/>
+<edge source="martin" target="senate"/>
+<edge source="martin" target="one year"/>
+<edge source="martin" target="lockheed"/>
+<edge source="martin" target="martin lockheed"/>
+<edge source="martin" target="comey"/>
+<edge source="martin" target="john ashcroft"/>
+<edge source="martin" target="two years"/>
+<edge source="martin" target="bush"/>
+<edge source="martin" target="james comey"/>
+<edge source="martin" target="his last year"/>
+<edge source="martin" target="more than  million"/>
+<edge source="martin" target="the american chamber of commerce"/>
+<edge source="martin" target="egypt"/>
+<edge source="martin" target="bill clinton"/>
+<edge source="martin" target="hsbc"/>
+<edge source="martin" target="london"/>
+<edge source="martin" target="hsbc company"/>
+<edge source="martin" target="the clinton foundation"/>
+<edge source="martin" target="deutsche bank"/>
+<edge source="martin" target="new york city"/>
+<edge source="martin" target="november"/>
+<edge source="martin" target="peter comeys"/>
+<edge source="martin" target="breitbart news"/>
+<edge source="martin" target="vienna virginia"/>
+<edge source="martin" target="june"/>
+<edge source="martin" target="january"/>
+<edge source="martin" target="that day"/>
+<edge source="obama" target="fbi"/>
+<edge source="obama" target="james comeys"/>
+<edge source="obama" target="clinton"/>
+<edge source="obama" target="washington"/>
+<edge source="obama" target="millions of dollars"/>
+<edge source="obama" target="peter comey"/>
+<edge source="obama" target="martin"/>
+<edge source="obama" target="united states"/>
+<edge source="obama" target="senate"/>
+<edge source="obama" target="one year"/>
+<edge source="obama" target="lockheed"/>
+<edge source="obama" target="martin lockheed"/>
+<edge source="obama" target="comey"/>
+<edge source="obama" target="john ashcroft"/>
+<edge source="obama" target="two years"/>
+<edge source="obama" target="bush"/>
+<edge source="obama" target="james comey"/>
+<edge source="obama" target="his last year"/>
+<edge source="obama" target="more than  million"/>
+<edge source="obama" target="the american chamber of commerce"/>
+<edge source="obama" target="egypt"/>
+<edge source="obama" target="bill clinton"/>
+<edge source="obama" target="hsbc"/>
+<edge source="obama" target="london"/>
+<edge source="obama" target="hsbc company"/>
+<edge source="obama" target="the clinton foundation"/>
+<edge source="obama" target="deutsche bank"/>
+<edge source="obama" target="new york city"/>
+<edge source="obama" target="november"/>
+<edge source="obama" target="peter comeys"/>
+<edge source="obama" target="breitbart news"/>
+<edge source="obama" target="vienna virginia"/>
+<edge source="obama" target="june"/>
+<edge source="obama" target="january"/>
+<edge source="obama" target="that day"/>
+<edge source="obama" target="democrat"/>
+<edge source="obama" target="russia"/>
+<edge source="obama" target="john"/>
+<edge source="obama" target="miller"/>
+<edge source="obama" target="chriswallace  pm   oct"/>
+<edge source="obama" target="october"/>
+<edge source="obama" target="kevin trump"/>
+<edge source="obama" target="hillary"/>
+<edge source="obama" target="tonight"/>
+<edge source="obama" target="joe biden"/>
+<edge source="obama" target="joseph shaw harpandjoseph"/>
+<edge source="united states" target="fbi"/>
+<edge source="united states" target="james comeys"/>
+<edge source="united states" target="clinton"/>
+<edge source="united states" target="washington"/>
+<edge source="united states" target="millions of dollars"/>
+<edge source="united states" target="peter comey"/>
+<edge source="united states" target="martin"/>
+<edge source="united states" target="obama"/>
+<edge source="united states" target="senate"/>
+<edge source="united states" target="one year"/>
+<edge source="united states" target="lockheed"/>
+<edge source="united states" target="martin lockheed"/>
+<edge source="united states" target="comey"/>
+<edge source="united states" target="john ashcroft"/>
+<edge source="united states" target="two years"/>
+<edge source="united states" target="bush"/>
+<edge source="united states" target="james comey"/>
+<edge source="united states" target="his last year"/>
+<edge source="united states" target="more than  million"/>
+<edge source="united states" target="the american chamber of commerce"/>
+<edge source="united states" target="egypt"/>
+<edge source="united states" target="bill clinton"/>
+<edge source="united states" target="hsbc"/>
+<edge source="united states" target="london"/>
+<edge source="united states" target="hsbc company"/>
+<edge source="united states" target="the clinton foundation"/>
+<edge source="united states" target="deutsche bank"/>
+<edge source="united states" target="new york city"/>
+<edge source="united states" target="november"/>
+<edge source="united states" target="peter comeys"/>
+<edge source="united states" target="breitbart news"/>
+<edge source="united states" target="vienna virginia"/>
+<edge source="united states" target="june"/>
+<edge source="united states" target="january"/>
+<edge source="united states" target="that day"/>
+<edge source="senate" target="fbi"/>
+<edge source="senate" target="james comeys"/>
+<edge source="senate" target="clinton"/>
+<edge source="senate" target="washington"/>
+<edge source="senate" target="millions of dollars"/>
+<edge source="senate" target="peter comey"/>
+<edge source="senate" target="martin"/>
+<edge source="senate" target="obama"/>
+<edge source="senate" target="united states"/>
+<edge source="senate" target="one year"/>
+<edge source="senate" target="lockheed"/>
+<edge source="senate" target="martin lockheed"/>
+<edge source="senate" target="comey"/>
+<edge source="senate" target="john ashcroft"/>
+<edge source="senate" target="two years"/>
+<edge source="senate" target="bush"/>
+<edge source="senate" target="james comey"/>
+<edge source="senate" target="his last year"/>
+<edge source="senate" target="more than  million"/>
+<edge source="senate" target="the american chamber of commerce"/>
+<edge source="senate" target="egypt"/>
+<edge source="senate" target="bill clinton"/>
+<edge source="senate" target="hsbc"/>
+<edge source="senate" target="london"/>
+<edge source="senate" target="hsbc company"/>
+<edge source="senate" target="the clinton foundation"/>
+<edge source="senate" target="deutsche bank"/>
+<edge source="senate" target="new york city"/>
+<edge source="senate" target="november"/>
+<edge source="senate" target="peter comeys"/>
+<edge source="senate" target="breitbart news"/>
+<edge source="senate" target="vienna virginia"/>
+<edge source="senate" target="june"/>
+<edge source="senate" target="january"/>
+<edge source="senate" target="that day"/>
+<edge source="one year" target="fbi"/>
+<edge source="one year" target="james comeys"/>
+<edge source="one year" target="clinton"/>
+<edge source="one year" target="washington"/>
+<edge source="one year" target="millions of dollars"/>
+<edge source="one year" target="peter comey"/>
+<edge source="one year" target="martin"/>
+<edge source="one year" target="obama"/>
+<edge source="one year" target="united states"/>
+<edge source="one year" target="senate"/>
+<edge source="one year" target="lockheed"/>
+<edge source="one year" target="martin lockheed"/>
+<edge source="one year" target="comey"/>
+<edge source="one year" target="john ashcroft"/>
+<edge source="one year" target="two years"/>
+<edge source="one year" target="bush"/>
+<edge source="one year" target="james comey"/>
+<edge source="one year" target="his last year"/>
+<edge source="one year" target="more than  million"/>
+<edge source="one year" target="the american chamber of commerce"/>
+<edge source="one year" target="egypt"/>
+<edge source="one year" target="bill clinton"/>
+<edge source="one year" target="hsbc"/>
+<edge source="one year" target="london"/>
+<edge source="one year" target="hsbc company"/>
+<edge source="one year" target="the clinton foundation"/>
+<edge source="one year" target="deutsche bank"/>
+<edge source="one year" target="new york city"/>
+<edge source="one year" target="november"/>
+<edge source="one year" target="peter comeys"/>
+<edge source="one year" target="breitbart news"/>
+<edge source="one year" target="vienna virginia"/>
+<edge source="one year" target="june"/>
+<edge source="one year" target="january"/>
+<edge source="one year" target="that day"/>
+<edge source="lockheed" target="fbi"/>
+<edge source="lockheed" target="james comeys"/>
+<edge source="lockheed" target="clinton"/>
+<edge source="lockheed" target="washington"/>
+<edge source="lockheed" target="millions of dollars"/>
+<edge source="lockheed" target="peter comey"/>
+<edge source="lockheed" target="martin"/>
+<edge source="lockheed" target="obama"/>
+<edge source="lockheed" target="united states"/>
+<edge source="lockheed" target="senate"/>
+<edge source="lockheed" target="one year"/>
+<edge source="lockheed" target="martin lockheed"/>
+<edge source="lockheed" target="comey"/>
+<edge source="lockheed" target="john ashcroft"/>
+<edge source="lockheed" target="two years"/>
+<edge source="lockheed" target="bush"/>
+<edge source="lockheed" target="james comey"/>
+<edge source="lockheed" target="his last year"/>
+<edge source="lockheed" target="more than  million"/>
+<edge source="lockheed" target="the american chamber of commerce"/>
+<edge source="lockheed" target="egypt"/>
+<edge source="lockheed" target="bill clinton"/>
+<edge source="lockheed" target="hsbc"/>
+<edge source="lockheed" target="london"/>
+<edge source="lockheed" target="hsbc company"/>
+<edge source="lockheed" target="the clinton foundation"/>
+<edge source="lockheed" target="deutsche bank"/>
+<edge source="lockheed" target="new york city"/>
+<edge source="lockheed" target="november"/>
+<edge source="lockheed" target="peter comeys"/>
+<edge source="lockheed" target="breitbart news"/>
+<edge source="lockheed" target="vienna virginia"/>
+<edge source="lockheed" target="june"/>
+<edge source="lockheed" target="january"/>
+<edge source="lockheed" target="that day"/>
+<edge source="martin lockheed" target="fbi"/>
+<edge source="martin lockheed" target="james comeys"/>
+<edge source="martin lockheed" target="clinton"/>
+<edge source="martin lockheed" target="washington"/>
+<edge source="martin lockheed" target="millions of dollars"/>
+<edge source="martin lockheed" target="peter comey"/>
+<edge source="martin lockheed" target="martin"/>
+<edge source="martin lockheed" target="obama"/>
+<edge source="martin lockheed" target="united states"/>
+<edge source="martin lockheed" target="senate"/>
+<edge source="martin lockheed" target="one year"/>
+<edge source="martin lockheed" target="lockheed"/>
+<edge source="martin lockheed" target="comey"/>
+<edge source="martin lockheed" target="john ashcroft"/>
+<edge source="martin lockheed" target="two years"/>
+<edge source="martin lockheed" target="bush"/>
+<edge source="martin lockheed" target="james comey"/>
+<edge source="martin lockheed" target="his last year"/>
+<edge source="martin lockheed" target="more than  million"/>
+<edge source="martin lockheed" target="the american chamber of commerce"/>
+<edge source="martin lockheed" target="egypt"/>
+<edge source="martin lockheed" target="bill clinton"/>
+<edge source="martin lockheed" target="hsbc"/>
+<edge source="martin lockheed" target="london"/>
+<edge source="martin lockheed" target="hsbc company"/>
+<edge source="martin lockheed" target="the clinton foundation"/>
+<edge source="martin lockheed" target="deutsche bank"/>
+<edge source="martin lockheed" target="new york city"/>
+<edge source="martin lockheed" target="november"/>
+<edge source="martin lockheed" target="peter comeys"/>
+<edge source="martin lockheed" target="breitbart news"/>
+<edge source="martin lockheed" target="vienna virginia"/>
+<edge source="martin lockheed" target="june"/>
+<edge source="martin lockheed" target="january"/>
+<edge source="martin lockheed" target="that day"/>
+<edge source="comey" target="fbi"/>
+<edge source="comey" target="james comeys"/>
+<edge source="comey" target="clinton"/>
+<edge source="comey" target="washington"/>
+<edge source="comey" target="millions of dollars"/>
+<edge source="comey" target="peter comey"/>
+<edge source="comey" target="martin"/>
+<edge source="comey" target="obama"/>
+<edge source="comey" target="united states"/>
+<edge source="comey" target="senate"/>
+<edge source="comey" target="one year"/>
+<edge source="comey" target="lockheed"/>
+<edge source="comey" target="martin lockheed"/>
+<edge source="comey" target="john ashcroft"/>
+<edge source="comey" target="two years"/>
+<edge source="comey" target="bush"/>
+<edge source="comey" target="james comey"/>
+<edge source="comey" target="his last year"/>
+<edge source="comey" target="more than  million"/>
+<edge source="comey" target="the american chamber of commerce"/>
+<edge source="comey" target="egypt"/>
+<edge source="comey" target="bill clinton"/>
+<edge source="comey" target="hsbc"/>
+<edge source="comey" target="london"/>
+<edge source="comey" target="hsbc company"/>
+<edge source="comey" target="the clinton foundation"/>
+<edge source="comey" target="deutsche bank"/>
+<edge source="comey" target="new york city"/>
+<edge source="comey" target="november"/>
+<edge source="comey" target="peter comeys"/>
+<edge source="comey" target="breitbart news"/>
+<edge source="comey" target="vienna virginia"/>
+<edge source="comey" target="june"/>
+<edge source="comey" target="january"/>
+<edge source="comey" target="that day"/>
+<edge source="john ashcroft" target="fbi"/>
+<edge source="john ashcroft" target="james comeys"/>
+<edge source="john ashcroft" target="clinton"/>
+<edge source="john ashcroft" target="washington"/>
+<edge source="john ashcroft" target="millions of dollars"/>
+<edge source="john ashcroft" target="peter comey"/>
+<edge source="john ashcroft" target="martin"/>
+<edge source="john ashcroft" target="obama"/>
+<edge source="john ashcroft" target="united states"/>
+<edge source="john ashcroft" target="senate"/>
+<edge source="john ashcroft" target="one year"/>
+<edge source="john ashcroft" target="lockheed"/>
+<edge source="john ashcroft" target="martin lockheed"/>
+<edge source="john ashcroft" target="comey"/>
+<edge source="john ashcroft" target="two years"/>
+<edge source="john ashcroft" target="bush"/>
+<edge source="john ashcroft" target="james comey"/>
+<edge source="john ashcroft" target="his last year"/>
+<edge source="john ashcroft" target="more than  million"/>
+<edge source="john ashcroft" target="the american chamber of commerce"/>
+<edge source="john ashcroft" target="egypt"/>
+<edge source="john ashcroft" target="bill clinton"/>
+<edge source="john ashcroft" target="hsbc"/>
+<edge source="john ashcroft" target="london"/>
+<edge source="john ashcroft" target="hsbc company"/>
+<edge source="john ashcroft" target="the clinton foundation"/>
+<edge source="john ashcroft" target="deutsche bank"/>
+<edge source="john ashcroft" target="new york city"/>
+<edge source="john ashcroft" target="november"/>
+<edge source="john ashcroft" target="peter comeys"/>
+<edge source="john ashcroft" target="breitbart news"/>
+<edge source="john ashcroft" target="vienna virginia"/>
+<edge source="john ashcroft" target="june"/>
+<edge source="john ashcroft" target="january"/>
+<edge source="john ashcroft" target="that day"/>
+<edge source="two years" target="fbi"/>
+<edge source="two years" target="james comeys"/>
+<edge source="two years" target="clinton"/>
+<edge source="two years" target="washington"/>
+<edge source="two years" target="millions of dollars"/>
+<edge source="two years" target="peter comey"/>
+<edge source="two years" target="martin"/>
+<edge source="two years" target="obama"/>
+<edge source="two years" target="united states"/>
+<edge source="two years" target="senate"/>
+<edge source="two years" target="one year"/>
+<edge source="two years" target="lockheed"/>
+<edge source="two years" target="martin lockheed"/>
+<edge source="two years" target="comey"/>
+<edge source="two years" target="john ashcroft"/>
+<edge source="two years" target="bush"/>
+<edge source="two years" target="james comey"/>
+<edge source="two years" target="his last year"/>
+<edge source="two years" target="more than  million"/>
+<edge source="two years" target="the american chamber of commerce"/>
+<edge source="two years" target="egypt"/>
+<edge source="two years" target="bill clinton"/>
+<edge source="two years" target="hsbc"/>
+<edge source="two years" target="london"/>
+<edge source="two years" target="hsbc company"/>
+<edge source="two years" target="the clinton foundation"/>
+<edge source="two years" target="deutsche bank"/>
+<edge source="two years" target="new york city"/>
+<edge source="two years" target="november"/>
+<edge source="two years" target="peter comeys"/>
+<edge source="two years" target="breitbart news"/>
+<edge source="two years" target="vienna virginia"/>
+<edge source="two years" target="june"/>
+<edge source="two years" target="january"/>
+<edge source="two years" target="that day"/>
+<edge source="bush" target="fbi"/>
+<edge source="bush" target="james comeys"/>
+<edge source="bush" target="clinton"/>
+<edge source="bush" target="washington"/>
+<edge source="bush" target="millions of dollars"/>
+<edge source="bush" target="peter comey"/>
+<edge source="bush" target="martin"/>
+<edge source="bush" target="obama"/>
+<edge source="bush" target="united states"/>
+<edge source="bush" target="senate"/>
+<edge source="bush" target="one year"/>
+<edge source="bush" target="lockheed"/>
+<edge source="bush" target="martin lockheed"/>
+<edge source="bush" target="comey"/>
+<edge source="bush" target="john ashcroft"/>
+<edge source="bush" target="two years"/>
+<edge source="bush" target="james comey"/>
+<edge source="bush" target="his last year"/>
+<edge source="bush" target="more than  million"/>
+<edge source="bush" target="the american chamber of commerce"/>
+<edge source="bush" target="egypt"/>
+<edge source="bush" target="bill clinton"/>
+<edge source="bush" target="hsbc"/>
+<edge source="bush" target="london"/>
+<edge source="bush" target="hsbc company"/>
+<edge source="bush" target="the clinton foundation"/>
+<edge source="bush" target="deutsche bank"/>
+<edge source="bush" target="new york city"/>
+<edge source="bush" target="november"/>
+<edge source="bush" target="peter comeys"/>
+<edge source="bush" target="breitbart news"/>
+<edge source="bush" target="vienna virginia"/>
+<edge source="bush" target="june"/>
+<edge source="bush" target="january"/>
+<edge source="bush" target="that day"/>
+<edge source="james comey" target="fbi"/>
+<edge source="james comey" target="james comeys"/>
+<edge source="james comey" target="clinton"/>
+<edge source="james comey" target="washington"/>
+<edge source="james comey" target="millions of dollars"/>
+<edge source="james comey" target="peter comey"/>
+<edge source="james comey" target="martin"/>
+<edge source="james comey" target="obama"/>
+<edge source="james comey" target="united states"/>
+<edge source="james comey" target="senate"/>
+<edge source="james comey" target="one year"/>
+<edge source="james comey" target="lockheed"/>
+<edge source="james comey" target="martin lockheed"/>
+<edge source="james comey" target="comey"/>
+<edge source="james comey" target="john ashcroft"/>
+<edge source="james comey" target="two years"/>
+<edge source="james comey" target="bush"/>
+<edge source="james comey" target="his last year"/>
+<edge source="james comey" target="more than  million"/>
+<edge source="james comey" target="the american chamber of commerce"/>
+<edge source="james comey" target="egypt"/>
+<edge source="james comey" target="bill clinton"/>
+<edge source="james comey" target="hsbc"/>
+<edge source="james comey" target="london"/>
+<edge source="james comey" target="hsbc company"/>
+<edge source="james comey" target="the clinton foundation"/>
+<edge source="james comey" target="deutsche bank"/>
+<edge source="james comey" target="new york city"/>
+<edge source="james comey" target="november"/>
+<edge source="james comey" target="peter comeys"/>
+<edge source="james comey" target="breitbart news"/>
+<edge source="james comey" target="vienna virginia"/>
+<edge source="james comey" target="june"/>
+<edge source="james comey" target="january"/>
+<edge source="james comey" target="that day"/>
+<edge source="his last year" target="fbi"/>
+<edge source="his last year" target="james comeys"/>
+<edge source="his last year" target="clinton"/>
+<edge source="his last year" target="washington"/>
+<edge source="his last year" target="millions of dollars"/>
+<edge source="his last year" target="peter comey"/>
+<edge source="his last year" target="martin"/>
+<edge source="his last year" target="obama"/>
+<edge source="his last year" target="united states"/>
+<edge source="his last year" target="senate"/>
+<edge source="his last year" target="one year"/>
+<edge source="his last year" target="lockheed"/>
+<edge source="his last year" target="martin lockheed"/>
+<edge source="his last year" target="comey"/>
+<edge source="his last year" target="john ashcroft"/>
+<edge source="his last year" target="two years"/>
+<edge source="his last year" target="bush"/>
+<edge source="his last year" target="james comey"/>
+<edge source="his last year" target="more than  million"/>
+<edge source="his last year" target="the american chamber of commerce"/>
+<edge source="his last year" target="egypt"/>
+<edge source="his last year" target="bill clinton"/>
+<edge source="his last year" target="hsbc"/>
+<edge source="his last year" target="london"/>
+<edge source="his last year" target="hsbc company"/>
+<edge source="his last year" target="the clinton foundation"/>
+<edge source="his last year" target="deutsche bank"/>
+<edge source="his last year" target="new york city"/>
+<edge source="his last year" target="november"/>
+<edge source="his last year" target="peter comeys"/>
+<edge source="his last year" target="breitbart news"/>
+<edge source="his last year" target="vienna virginia"/>
+<edge source="his last year" target="june"/>
+<edge source="his last year" target="january"/>
+<edge source="his last year" target="that day"/>
+<edge source="more than  million" target="fbi"/>
+<edge source="more than  million" target="james comeys"/>
+<edge source="more than  million" target="clinton"/>
+<edge source="more than  million" target="washington"/>
+<edge source="more than  million" target="millions of dollars"/>
+<edge source="more than  million" target="peter comey"/>
+<edge source="more than  million" target="martin"/>
+<edge source="more than  million" target="obama"/>
+<edge source="more than  million" target="united states"/>
+<edge source="more than  million" target="senate"/>
+<edge source="more than  million" target="one year"/>
+<edge source="more than  million" target="lockheed"/>
+<edge source="more than  million" target="martin lockheed"/>
+<edge source="more than  million" target="comey"/>
+<edge source="more than  million" target="john ashcroft"/>
+<edge source="more than  million" target="two years"/>
+<edge source="more than  million" target="bush"/>
+<edge source="more than  million" target="james comey"/>
+<edge source="more than  million" target="his last year"/>
+<edge source="more than  million" target="the american chamber of commerce"/>
+<edge source="more than  million" target="egypt"/>
+<edge source="more than  million" target="bill clinton"/>
+<edge source="more than  million" target="hsbc"/>
+<edge source="more than  million" target="london"/>
+<edge source="more than  million" target="hsbc company"/>
+<edge source="more than  million" target="the clinton foundation"/>
+<edge source="more than  million" target="deutsche bank"/>
+<edge source="more than  million" target="new york city"/>
+<edge source="more than  million" target="november"/>
+<edge source="more than  million" target="peter comeys"/>
+<edge source="more than  million" target="breitbart news"/>
+<edge source="more than  million" target="vienna virginia"/>
+<edge source="more than  million" target="june"/>
+<edge source="more than  million" target="january"/>
+<edge source="more than  million" target="that day"/>
+<edge source="the american chamber of commerce" target="fbi"/>
+<edge source="the american chamber of commerce" target="james comeys"/>
+<edge source="the american chamber of commerce" target="clinton"/>
+<edge source="the american chamber of commerce" target="washington"/>
+<edge source="the american chamber of commerce" target="millions of dollars"/>
+<edge source="the american chamber of commerce" target="peter comey"/>
+<edge source="the american chamber of commerce" target="martin"/>
+<edge source="the american chamber of commerce" target="obama"/>
+<edge source="the american chamber of commerce" target="united states"/>
+<edge source="the american chamber of commerce" target="senate"/>
+<edge source="the american chamber of commerce" target="one year"/>
+<edge source="the american chamber of commerce" target="lockheed"/>
+<edge source="the american chamber of commerce" target="martin lockheed"/>
+<edge source="the american chamber of commerce" target="comey"/>
+<edge source="the american chamber of commerce" target="john ashcroft"/>
+<edge source="the american chamber of commerce" target="two years"/>
+<edge source="the american chamber of commerce" target="bush"/>
+<edge source="the american chamber of commerce" target="james comey"/>
+<edge source="the american chamber of commerce" target="his last year"/>
+<edge source="the american chamber of commerce" target="more than  million"/>
+<edge source="the american chamber of commerce" target="egypt"/>
+<edge source="the american chamber of commerce" target="bill clinton"/>
+<edge source="the american chamber of commerce" target="hsbc"/>
+<edge source="the american chamber of commerce" target="london"/>
+<edge source="the american chamber of commerce" target="hsbc company"/>
+<edge source="the american chamber of commerce" target="the clinton foundation"/>
+<edge source="the american chamber of commerce" target="deutsche bank"/>
+<edge source="the american chamber of commerce" target="new york city"/>
+<edge source="the american chamber of commerce" target="november"/>
+<edge source="the american chamber of commerce" target="peter comeys"/>
+<edge source="the american chamber of commerce" target="breitbart news"/>
+<edge source="the american chamber of commerce" target="vienna virginia"/>
+<edge source="the american chamber of commerce" target="june"/>
+<edge source="the american chamber of commerce" target="january"/>
+<edge source="the american chamber of commerce" target="that day"/>
+<edge source="egypt" target="fbi"/>
+<edge source="egypt" target="james comeys"/>
+<edge source="egypt" target="clinton"/>
+<edge source="egypt" target="washington"/>
+<edge source="egypt" target="millions of dollars"/>
+<edge source="egypt" target="peter comey"/>
+<edge source="egypt" target="martin"/>
+<edge source="egypt" target="obama"/>
+<edge source="egypt" target="united states"/>
+<edge source="egypt" target="senate"/>
+<edge source="egypt" target="one year"/>
+<edge source="egypt" target="lockheed"/>
+<edge source="egypt" target="martin lockheed"/>
+<edge source="egypt" target="comey"/>
+<edge source="egypt" target="john ashcroft"/>
+<edge source="egypt" target="two years"/>
+<edge source="egypt" target="bush"/>
+<edge source="egypt" target="james comey"/>
+<edge source="egypt" target="his last year"/>
+<edge source="egypt" target="more than  million"/>
+<edge source="egypt" target="the american chamber of commerce"/>
+<edge source="egypt" target="bill clinton"/>
+<edge source="egypt" target="hsbc"/>
+<edge source="egypt" target="london"/>
+<edge source="egypt" target="hsbc company"/>
+<edge source="egypt" target="the clinton foundation"/>
+<edge source="egypt" target="deutsche bank"/>
+<edge source="egypt" target="new york city"/>
+<edge source="egypt" target="november"/>
+<edge source="egypt" target="peter comeys"/>
+<edge source="egypt" target="breitbart news"/>
+<edge source="egypt" target="vienna virginia"/>
+<edge source="egypt" target="june"/>
+<edge source="egypt" target="january"/>
+<edge source="egypt" target="that day"/>
+<edge source="bill clinton" target="fbi"/>
+<edge source="bill clinton" target="james comeys"/>
+<edge source="bill clinton" target="clinton"/>
+<edge source="bill clinton" target="washington"/>
+<edge source="bill clinton" target="millions of dollars"/>
+<edge source="bill clinton" target="peter comey"/>
+<edge source="bill clinton" target="martin"/>
+<edge source="bill clinton" target="obama"/>
+<edge source="bill clinton" target="united states"/>
+<edge source="bill clinton" target="senate"/>
+<edge source="bill clinton" target="one year"/>
+<edge source="bill clinton" target="lockheed"/>
+<edge source="bill clinton" target="martin lockheed"/>
+<edge source="bill clinton" target="comey"/>
+<edge source="bill clinton" target="john ashcroft"/>
+<edge source="bill clinton" target="two years"/>
+<edge source="bill clinton" target="bush"/>
+<edge source="bill clinton" target="james comey"/>
+<edge source="bill clinton" target="his last year"/>
+<edge source="bill clinton" target="more than  million"/>
+<edge source="bill clinton" target="the american chamber of commerce"/>
+<edge source="bill clinton" target="egypt"/>
+<edge source="bill clinton" target="hsbc"/>
+<edge source="bill clinton" target="london"/>
+<edge source="bill clinton" target="hsbc company"/>
+<edge source="bill clinton" target="the clinton foundation"/>
+<edge source="bill clinton" target="deutsche bank"/>
+<edge source="bill clinton" target="new york city"/>
+<edge source="bill clinton" target="november"/>
+<edge source="bill clinton" target="peter comeys"/>
+<edge source="bill clinton" target="breitbart news"/>
+<edge source="bill clinton" target="vienna virginia"/>
+<edge source="bill clinton" target="june"/>
+<edge source="bill clinton" target="january"/>
+<edge source="bill clinton" target="that day"/>
+<edge source="hsbc" target="fbi"/>
+<edge source="hsbc" target="james comeys"/>
+<edge source="hsbc" target="clinton"/>
+<edge source="hsbc" target="washington"/>
+<edge source="hsbc" target="millions of dollars"/>
+<edge source="hsbc" target="peter comey"/>
+<edge source="hsbc" target="martin"/>
+<edge source="hsbc" target="obama"/>
+<edge source="hsbc" target="united states"/>
+<edge source="hsbc" target="senate"/>
+<edge source="hsbc" target="one year"/>
+<edge source="hsbc" target="lockheed"/>
+<edge source="hsbc" target="martin lockheed"/>
+<edge source="hsbc" target="comey"/>
+<edge source="hsbc" target="john ashcroft"/>
+<edge source="hsbc" target="two years"/>
+<edge source="hsbc" target="bush"/>
+<edge source="hsbc" target="james comey"/>
+<edge source="hsbc" target="his last year"/>
+<edge source="hsbc" target="more than  million"/>
+<edge source="hsbc" target="the american chamber of commerce"/>
+<edge source="hsbc" target="egypt"/>
+<edge source="hsbc" target="bill clinton"/>
+<edge source="hsbc" target="london"/>
+<edge source="hsbc" target="hsbc company"/>
+<edge source="hsbc" target="the clinton foundation"/>
+<edge source="hsbc" target="deutsche bank"/>
+<edge source="hsbc" target="new york city"/>
+<edge source="hsbc" target="november"/>
+<edge source="hsbc" target="peter comeys"/>
+<edge source="hsbc" target="breitbart news"/>
+<edge source="hsbc" target="vienna virginia"/>
+<edge source="hsbc" target="june"/>
+<edge source="hsbc" target="january"/>
+<edge source="hsbc" target="that day"/>
+<edge source="london" target="fbi"/>
+<edge source="london" target="james comeys"/>
+<edge source="london" target="clinton"/>
+<edge source="london" target="washington"/>
+<edge source="london" target="millions of dollars"/>
+<edge source="london" target="peter comey"/>
+<edge source="london" target="martin"/>
+<edge source="london" target="obama"/>
+<edge source="london" target="united states"/>
+<edge source="london" target="senate"/>
+<edge source="london" target="one year"/>
+<edge source="london" target="lockheed"/>
+<edge source="london" target="martin lockheed"/>
+<edge source="london" target="comey"/>
+<edge source="london" target="john ashcroft"/>
+<edge source="london" target="two years"/>
+<edge source="london" target="bush"/>
+<edge source="london" target="james comey"/>
+<edge source="london" target="his last year"/>
+<edge source="london" target="more than  million"/>
+<edge source="london" target="the american chamber of commerce"/>
+<edge source="london" target="egypt"/>
+<edge source="london" target="bill clinton"/>
+<edge source="london" target="hsbc"/>
+<edge source="london" target="hsbc company"/>
+<edge source="london" target="the clinton foundation"/>
+<edge source="london" target="deutsche bank"/>
+<edge source="london" target="new york city"/>
+<edge source="london" target="november"/>
+<edge source="london" target="peter comeys"/>
+<edge source="london" target="breitbart news"/>
+<edge source="london" target="vienna virginia"/>
+<edge source="london" target="june"/>
+<edge source="london" target="january"/>
+<edge source="london" target="that day"/>
+<edge source="hsbc company" target="fbi"/>
+<edge source="hsbc company" target="james comeys"/>
+<edge source="hsbc company" target="clinton"/>
+<edge source="hsbc company" target="washington"/>
+<edge source="hsbc company" target="millions of dollars"/>
+<edge source="hsbc company" target="peter comey"/>
+<edge source="hsbc company" target="martin"/>
+<edge source="hsbc company" target="obama"/>
+<edge source="hsbc company" target="united states"/>
+<edge source="hsbc company" target="senate"/>
+<edge source="hsbc company" target="one year"/>
+<edge source="hsbc company" target="lockheed"/>
+<edge source="hsbc company" target="martin lockheed"/>
+<edge source="hsbc company" target="comey"/>
+<edge source="hsbc company" target="john ashcroft"/>
+<edge source="hsbc company" target="two years"/>
+<edge source="hsbc company" target="bush"/>
+<edge source="hsbc company" target="james comey"/>
+<edge source="hsbc company" target="his last year"/>
+<edge source="hsbc company" target="more than  million"/>
+<edge source="hsbc company" target="the american chamber of commerce"/>
+<edge source="hsbc company" target="egypt"/>
+<edge source="hsbc company" target="bill clinton"/>
+<edge source="hsbc company" target="hsbc"/>
+<edge source="hsbc company" target="london"/>
+<edge source="hsbc company" target="the clinton foundation"/>
+<edge source="hsbc company" target="deutsche bank"/>
+<edge source="hsbc company" target="new york city"/>
+<edge source="hsbc company" target="november"/>
+<edge source="hsbc company" target="peter comeys"/>
+<edge source="hsbc company" target="breitbart news"/>
+<edge source="hsbc company" target="vienna virginia"/>
+<edge source="hsbc company" target="june"/>
+<edge source="hsbc company" target="january"/>
+<edge source="hsbc company" target="that day"/>
+<edge source="the clinton foundation" target="fbi"/>
+<edge source="the clinton foundation" target="james comeys"/>
+<edge source="the clinton foundation" target="clinton"/>
+<edge source="the clinton foundation" target="washington"/>
+<edge source="the clinton foundation" target="millions of dollars"/>
+<edge source="the clinton foundation" target="peter comey"/>
+<edge source="the clinton foundation" target="martin"/>
+<edge source="the clinton foundation" target="obama"/>
+<edge source="the clinton foundation" target="united states"/>
+<edge source="the clinton foundation" target="senate"/>
+<edge source="the clinton foundation" target="one year"/>
+<edge source="the clinton foundation" target="lockheed"/>
+<edge source="the clinton foundation" target="martin lockheed"/>
+<edge source="the clinton foundation" target="comey"/>
+<edge source="the clinton foundation" target="john ashcroft"/>
+<edge source="the clinton foundation" target="two years"/>
+<edge source="the clinton foundation" target="bush"/>
+<edge source="the clinton foundation" target="james comey"/>
+<edge source="the clinton foundation" target="his last year"/>
+<edge source="the clinton foundation" target="more than  million"/>
+<edge source="the clinton foundation" target="the american chamber of commerce"/>
+<edge source="the clinton foundation" target="egypt"/>
+<edge source="the clinton foundation" target="bill clinton"/>
+<edge source="the clinton foundation" target="hsbc"/>
+<edge source="the clinton foundation" target="london"/>
+<edge source="the clinton foundation" target="hsbc company"/>
+<edge source="the clinton foundation" target="deutsche bank"/>
+<edge source="the clinton foundation" target="new york city"/>
+<edge source="the clinton foundation" target="november"/>
+<edge source="the clinton foundation" target="peter comeys"/>
+<edge source="the clinton foundation" target="breitbart news"/>
+<edge source="the clinton foundation" target="vienna virginia"/>
+<edge source="the clinton foundation" target="june"/>
+<edge source="the clinton foundation" target="january"/>
+<edge source="the clinton foundation" target="that day"/>
+<edge source="deutsche bank" target="fbi"/>
+<edge source="deutsche bank" target="james comeys"/>
+<edge source="deutsche bank" target="clinton"/>
+<edge source="deutsche bank" target="washington"/>
+<edge source="deutsche bank" target="millions of dollars"/>
+<edge source="deutsche bank" target="peter comey"/>
+<edge source="deutsche bank" target="martin"/>
+<edge source="deutsche bank" target="obama"/>
+<edge source="deutsche bank" target="united states"/>
+<edge source="deutsche bank" target="senate"/>
+<edge source="deutsche bank" target="one year"/>
+<edge source="deutsche bank" target="lockheed"/>
+<edge source="deutsche bank" target="martin lockheed"/>
+<edge source="deutsche bank" target="comey"/>
+<edge source="deutsche bank" target="john ashcroft"/>
+<edge source="deutsche bank" target="two years"/>
+<edge source="deutsche bank" target="bush"/>
+<edge source="deutsche bank" target="james comey"/>
+<edge source="deutsche bank" target="his last year"/>
+<edge source="deutsche bank" target="more than  million"/>
+<edge source="deutsche bank" target="the american chamber of commerce"/>
+<edge source="deutsche bank" target="egypt"/>
+<edge source="deutsche bank" target="bill clinton"/>
+<edge source="deutsche bank" target="hsbc"/>
+<edge source="deutsche bank" target="london"/>
+<edge source="deutsche bank" target="hsbc company"/>
+<edge source="deutsche bank" target="the clinton foundation"/>
+<edge source="deutsche bank" target="new york city"/>
+<edge source="deutsche bank" target="november"/>
+<edge source="deutsche bank" target="peter comeys"/>
+<edge source="deutsche bank" target="breitbart news"/>
+<edge source="deutsche bank" target="vienna virginia"/>
+<edge source="deutsche bank" target="june"/>
+<edge source="deutsche bank" target="january"/>
+<edge source="deutsche bank" target="that day"/>
+<edge source="new york city" target="fbi"/>
+<edge source="new york city" target="james comeys"/>
+<edge source="new york city" target="clinton"/>
+<edge source="new york city" target="washington"/>
+<edge source="new york city" target="millions of dollars"/>
+<edge source="new york city" target="peter comey"/>
+<edge source="new york city" target="martin"/>
+<edge source="new york city" target="obama"/>
+<edge source="new york city" target="united states"/>
+<edge source="new york city" target="senate"/>
+<edge source="new york city" target="one year"/>
+<edge source="new york city" target="lockheed"/>
+<edge source="new york city" target="martin lockheed"/>
+<edge source="new york city" target="comey"/>
+<edge source="new york city" target="john ashcroft"/>
+<edge source="new york city" target="two years"/>
+<edge source="new york city" target="bush"/>
+<edge source="new york city" target="james comey"/>
+<edge source="new york city" target="his last year"/>
+<edge source="new york city" target="more than  million"/>
+<edge source="new york city" target="the american chamber of commerce"/>
+<edge source="new york city" target="egypt"/>
+<edge source="new york city" target="bill clinton"/>
+<edge source="new york city" target="hsbc"/>
+<edge source="new york city" target="london"/>
+<edge source="new york city" target="hsbc company"/>
+<edge source="new york city" target="the clinton foundation"/>
+<edge source="new york city" target="deutsche bank"/>
+<edge source="new york city" target="november"/>
+<edge source="new york city" target="peter comeys"/>
+<edge source="new york city" target="breitbart news"/>
+<edge source="new york city" target="vienna virginia"/>
+<edge source="new york city" target="june"/>
+<edge source="new york city" target="january"/>
+<edge source="new york city" target="that day"/>
+<edge source="peter comeys" target="fbi"/>
+<edge source="peter comeys" target="james comeys"/>
+<edge source="peter comeys" target="clinton"/>
+<edge source="peter comeys" target="washington"/>
+<edge source="peter comeys" target="millions of dollars"/>
+<edge source="peter comeys" target="peter comey"/>
+<edge source="peter comeys" target="martin"/>
+<edge source="peter comeys" target="obama"/>
+<edge source="peter comeys" target="united states"/>
+<edge source="peter comeys" target="senate"/>
+<edge source="peter comeys" target="one year"/>
+<edge source="peter comeys" target="lockheed"/>
+<edge source="peter comeys" target="martin lockheed"/>
+<edge source="peter comeys" target="comey"/>
+<edge source="peter comeys" target="john ashcroft"/>
+<edge source="peter comeys" target="two years"/>
+<edge source="peter comeys" target="bush"/>
+<edge source="peter comeys" target="james comey"/>
+<edge source="peter comeys" target="his last year"/>
+<edge source="peter comeys" target="more than  million"/>
+<edge source="peter comeys" target="the american chamber of commerce"/>
+<edge source="peter comeys" target="egypt"/>
+<edge source="peter comeys" target="bill clinton"/>
+<edge source="peter comeys" target="hsbc"/>
+<edge source="peter comeys" target="london"/>
+<edge source="peter comeys" target="hsbc company"/>
+<edge source="peter comeys" target="the clinton foundation"/>
+<edge source="peter comeys" target="deutsche bank"/>
+<edge source="peter comeys" target="new york city"/>
+<edge source="peter comeys" target="november"/>
+<edge source="peter comeys" target="breitbart news"/>
+<edge source="peter comeys" target="vienna virginia"/>
+<edge source="peter comeys" target="june"/>
+<edge source="peter comeys" target="january"/>
+<edge source="peter comeys" target="that day"/>
+<edge source="breitbart news" target="fbi"/>
+<edge source="breitbart news" target="james comeys"/>
+<edge source="breitbart news" target="clinton"/>
+<edge source="breitbart news" target="washington"/>
+<edge source="breitbart news" target="millions of dollars"/>
+<edge source="breitbart news" target="peter comey"/>
+<edge source="breitbart news" target="martin"/>
+<edge source="breitbart news" target="obama"/>
+<edge source="breitbart news" target="united states"/>
+<edge source="breitbart news" target="senate"/>
+<edge source="breitbart news" target="one year"/>
+<edge source="breitbart news" target="lockheed"/>
+<edge source="breitbart news" target="martin lockheed"/>
+<edge source="breitbart news" target="comey"/>
+<edge source="breitbart news" target="john ashcroft"/>
+<edge source="breitbart news" target="two years"/>
+<edge source="breitbart news" target="bush"/>
+<edge source="breitbart news" target="james comey"/>
+<edge source="breitbart news" target="his last year"/>
+<edge source="breitbart news" target="more than  million"/>
+<edge source="breitbart news" target="the american chamber of commerce"/>
+<edge source="breitbart news" target="egypt"/>
+<edge source="breitbart news" target="bill clinton"/>
+<edge source="breitbart news" target="hsbc"/>
+<edge source="breitbart news" target="london"/>
+<edge source="breitbart news" target="hsbc company"/>
+<edge source="breitbart news" target="the clinton foundation"/>
+<edge source="breitbart news" target="deutsche bank"/>
+<edge source="breitbart news" target="new york city"/>
+<edge source="breitbart news" target="november"/>
+<edge source="breitbart news" target="peter comeys"/>
+<edge source="breitbart news" target="vienna virginia"/>
+<edge source="breitbart news" target="june"/>
+<edge source="breitbart news" target="january"/>
+<edge source="breitbart news" target="that day"/>
+<edge source="vienna virginia" target="fbi"/>
+<edge source="vienna virginia" target="james comeys"/>
+<edge source="vienna virginia" target="clinton"/>
+<edge source="vienna virginia" target="washington"/>
+<edge source="vienna virginia" target="millions of dollars"/>
+<edge source="vienna virginia" target="peter comey"/>
+<edge source="vienna virginia" target="martin"/>
+<edge source="vienna virginia" target="obama"/>
+<edge source="vienna virginia" target="united states"/>
+<edge source="vienna virginia" target="senate"/>
+<edge source="vienna virginia" target="one year"/>
+<edge source="vienna virginia" target="lockheed"/>
+<edge source="vienna virginia" target="martin lockheed"/>
+<edge source="vienna virginia" target="comey"/>
+<edge source="vienna virginia" target="john ashcroft"/>
+<edge source="vienna virginia" target="two years"/>
+<edge source="vienna virginia" target="bush"/>
+<edge source="vienna virginia" target="james comey"/>
+<edge source="vienna virginia" target="his last year"/>
+<edge source="vienna virginia" target="more than  million"/>
+<edge source="vienna virginia" target="the american chamber of commerce"/>
+<edge source="vienna virginia" target="egypt"/>
+<edge source="vienna virginia" target="bill clinton"/>
+<edge source="vienna virginia" target="hsbc"/>
+<edge source="vienna virginia" target="london"/>
+<edge source="vienna virginia" target="hsbc company"/>
+<edge source="vienna virginia" target="the clinton foundation"/>
+<edge source="vienna virginia" target="deutsche bank"/>
+<edge source="vienna virginia" target="new york city"/>
+<edge source="vienna virginia" target="november"/>
+<edge source="vienna virginia" target="peter comeys"/>
+<edge source="vienna virginia" target="breitbart news"/>
+<edge source="vienna virginia" target="june"/>
+<edge source="vienna virginia" target="january"/>
+<edge source="vienna virginia" target="that day"/>
+<edge source="june" target="fbi"/>
+<edge source="june" target="james comeys"/>
+<edge source="june" target="clinton"/>
+<edge source="june" target="washington"/>
+<edge source="june" target="millions of dollars"/>
+<edge source="june" target="peter comey"/>
+<edge source="june" target="martin"/>
+<edge source="june" target="obama"/>
+<edge source="june" target="united states"/>
+<edge source="june" target="senate"/>
+<edge source="june" target="one year"/>
+<edge source="june" target="lockheed"/>
+<edge source="june" target="martin lockheed"/>
+<edge source="june" target="comey"/>
+<edge source="june" target="john ashcroft"/>
+<edge source="june" target="two years"/>
+<edge source="june" target="bush"/>
+<edge source="june" target="james comey"/>
+<edge source="june" target="his last year"/>
+<edge source="june" target="more than  million"/>
+<edge source="june" target="the american chamber of commerce"/>
+<edge source="june" target="egypt"/>
+<edge source="june" target="bill clinton"/>
+<edge source="june" target="hsbc"/>
+<edge source="june" target="london"/>
+<edge source="june" target="hsbc company"/>
+<edge source="june" target="the clinton foundation"/>
+<edge source="june" target="deutsche bank"/>
+<edge source="june" target="new york city"/>
+<edge source="june" target="november"/>
+<edge source="june" target="peter comeys"/>
+<edge source="june" target="breitbart news"/>
+<edge source="june" target="vienna virginia"/>
+<edge source="june" target="january"/>
+<edge source="june" target="that day"/>
+<edge source="january" target="fbi"/>
+<edge source="january" target="james comeys"/>
+<edge source="january" target="clinton"/>
+<edge source="january" target="washington"/>
+<edge source="january" target="millions of dollars"/>
+<edge source="january" target="peter comey"/>
+<edge source="january" target="martin"/>
+<edge source="january" target="obama"/>
+<edge source="january" target="united states"/>
+<edge source="january" target="senate"/>
+<edge source="january" target="one year"/>
+<edge source="january" target="lockheed"/>
+<edge source="january" target="martin lockheed"/>
+<edge source="january" target="comey"/>
+<edge source="january" target="john ashcroft"/>
+<edge source="january" target="two years"/>
+<edge source="january" target="bush"/>
+<edge source="january" target="james comey"/>
+<edge source="january" target="his last year"/>
+<edge source="january" target="more than  million"/>
+<edge source="january" target="the american chamber of commerce"/>
+<edge source="january" target="egypt"/>
+<edge source="january" target="bill clinton"/>
+<edge source="january" target="hsbc"/>
+<edge source="january" target="london"/>
+<edge source="january" target="hsbc company"/>
+<edge source="january" target="the clinton foundation"/>
+<edge source="january" target="deutsche bank"/>
+<edge source="january" target="new york city"/>
+<edge source="january" target="november"/>
+<edge source="january" target="peter comeys"/>
+<edge source="january" target="breitbart news"/>
+<edge source="january" target="vienna virginia"/>
+<edge source="january" target="june"/>
+<edge source="january" target="that day"/>
+<edge source="franklin graham" target="billy graham"/>
+<edge source="franklin graham" target="christians"/>
+<edge source="franklin graham" target="donald trump"/>
+<edge source="franklin graham" target="graham"/>
+<edge source="franklin graham" target="democrats"/>
+<edge source="franklin graham" target="four more years"/>
+<edge source="franklin graham" target="fox news commentator"/>
+<edge source="franklin graham" target="christmas"/>
+<edge source="franklin graham" target="carl"/>
+<edge source="billy graham" target="franklin graham"/>
+<edge source="billy graham" target="christians"/>
+<edge source="billy graham" target="donald trump"/>
+<edge source="billy graham" target="graham"/>
+<edge source="billy graham" target="democrats"/>
+<edge source="billy graham" target="four more years"/>
+<edge source="billy graham" target="fox news commentator"/>
+<edge source="billy graham" target="christmas"/>
+<edge source="billy graham" target="carl"/>
+<edge source="christians" target="franklin graham"/>
+<edge source="christians" target="billy graham"/>
+<edge source="christians" target="donald trump"/>
+<edge source="christians" target="graham"/>
+<edge source="christians" target="democrats"/>
+<edge source="christians" target="four more years"/>
+<edge source="christians" target="fox news commentator"/>
+<edge source="christians" target="christmas"/>
+<edge source="christians" target="carl"/>
+<edge source="graham" target="franklin graham"/>
+<edge source="graham" target="billy graham"/>
+<edge source="graham" target="christians"/>
+<edge source="graham" target="donald trump"/>
+<edge source="graham" target="democrats"/>
+<edge source="graham" target="four more years"/>
+<edge source="graham" target="fox news commentator"/>
+<edge source="graham" target="christmas"/>
+<edge source="graham" target="carl"/>
+<edge source="democrats" target="franklin graham"/>
+<edge source="democrats" target="billy graham"/>
+<edge source="democrats" target="christians"/>
+<edge source="democrats" target="donald trump"/>
+<edge source="democrats" target="graham"/>
+<edge source="democrats" target="four more years"/>
+<edge source="democrats" target="fox news commentator"/>
+<edge source="democrats" target="christmas"/>
+<edge source="democrats" target="carl"/>
+<edge source="four more years" target="franklin graham"/>
+<edge source="four more years" target="billy graham"/>
+<edge source="four more years" target="christians"/>
+<edge source="four more years" target="donald trump"/>
+<edge source="four more years" target="graham"/>
+<edge source="four more years" target="democrats"/>
+<edge source="four more years" target="fox news commentator"/>
+<edge source="four more years" target="christmas"/>
+<edge source="four more years" target="carl"/>
+<edge source="fox news commentator" target="franklin graham"/>
+<edge source="fox news commentator" target="billy graham"/>
+<edge source="fox news commentator" target="christians"/>
+<edge source="fox news commentator" target="donald trump"/>
+<edge source="fox news commentator" target="graham"/>
+<edge source="fox news commentator" target="democrats"/>
+<edge source="fox news commentator" target="four more years"/>
+<edge source="fox news commentator" target="christmas"/>
+<edge source="fox news commentator" target="carl"/>
+<edge source="christmas" target="franklin graham"/>
+<edge source="christmas" target="billy graham"/>
+<edge source="christmas" target="christians"/>
+<edge source="christmas" target="donald trump"/>
+<edge source="christmas" target="graham"/>
+<edge source="christmas" target="democrats"/>
+<edge source="christmas" target="four more years"/>
+<edge source="christmas" target="fox news commentator"/>
+<edge source="christmas" target="carl"/>
+<edge source="carl" target="franklin graham"/>
+<edge source="carl" target="billy graham"/>
+<edge source="carl" target="christians"/>
+<edge source="carl" target="donald trump"/>
+<edge source="carl" target="graham"/>
+<edge source="carl" target="democrats"/>
+<edge source="carl" target="four more years"/>
+<edge source="carl" target="fox news commentator"/>
+<edge source="carl" target="christmas"/>
+<edge source="democrat" target="clinton"/>
+<edge source="democrat" target="russia"/>
+<edge source="democrat" target="john"/>
+<edge source="democrat" target="miller"/>
+<edge source="democrat" target="chriswallace  pm   oct"/>
+<edge source="democrat" target="october"/>
+<edge source="democrat" target="kevin trump"/>
+<edge source="democrat" target="hillary"/>
+<edge source="democrat" target="tonight"/>
+<edge source="democrat" target="joe biden"/>
+<edge source="democrat" target="obama"/>
+<edge source="democrat" target="joseph shaw harpandjoseph"/>
+<edge source="russia" target="clinton"/>
+<edge source="russia" target="democrat"/>
+<edge source="russia" target="john"/>
+<edge source="russia" target="miller"/>
+<edge source="russia" target="chriswallace  pm   oct"/>
+<edge source="russia" target="october"/>
+<edge source="russia" target="kevin trump"/>
+<edge source="russia" target="hillary"/>
+<edge source="russia" target="tonight"/>
+<edge source="russia" target="joe biden"/>
+<edge source="russia" target="obama"/>
+<edge source="russia" target="joseph shaw harpandjoseph"/>
+<edge source="john" target="clinton"/>
+<edge source="john" target="democrat"/>
+<edge source="john" target="russia"/>
+<edge source="john" target="miller"/>
+<edge source="john" target="chriswallace  pm   oct"/>
+<edge source="john" target="october"/>
+<edge source="john" target="kevin trump"/>
+<edge source="john" target="hillary"/>
+<edge source="john" target="tonight"/>
+<edge source="john" target="joe biden"/>
+<edge source="john" target="obama"/>
+<edge source="john" target="joseph shaw harpandjoseph"/>
+<edge source="miller" target="clinton"/>
+<edge source="miller" target="democrat"/>
+<edge source="miller" target="russia"/>
+<edge source="miller" target="john"/>
+<edge source="miller" target="chriswallace  pm   oct"/>
+<edge source="miller" target="october"/>
+<edge source="miller" target="kevin trump"/>
+<edge source="miller" target="hillary"/>
+<edge source="miller" target="tonight"/>
+<edge source="miller" target="joe biden"/>
+<edge source="miller" target="obama"/>
+<edge source="miller" target="joseph shaw harpandjoseph"/>
+<edge source="chriswallace  pm   oct" target="clinton"/>
+<edge source="chriswallace  pm   oct" target="democrat"/>
+<edge source="chriswallace  pm   oct" target="russia"/>
+<edge source="chriswallace  pm   oct" target="john"/>
+<edge source="chriswallace  pm   oct" target="miller"/>
+<edge source="chriswallace  pm   oct" target="october"/>
+<edge source="chriswallace  pm   oct" target="kevin trump"/>
+<edge source="chriswallace  pm   oct" target="hillary"/>
+<edge source="chriswallace  pm   oct" target="tonight"/>
+<edge source="chriswallace  pm   oct" target="joe biden"/>
+<edge source="chriswallace  pm   oct" target="obama"/>
+<edge source="chriswallace  pm   oct" target="joseph shaw harpandjoseph"/>
+<edge source="october" target="clinton"/>
+<edge source="october" target="democrat"/>
+<edge source="october" target="russia"/>
+<edge source="october" target="john"/>
+<edge source="october" target="miller"/>
+<edge source="october" target="chriswallace  pm   oct"/>
+<edge source="october" target="kevin trump"/>
+<edge source="october" target="hillary"/>
+<edge source="october" target="tonight"/>
+<edge source="october" target="joe biden"/>
+<edge source="october" target="obama"/>
+<edge source="october" target="joseph shaw harpandjoseph"/>
+<edge source="kevin trump" target="clinton"/>
+<edge source="kevin trump" target="democrat"/>
+<edge source="kevin trump" target="russia"/>
+<edge source="kevin trump" target="john"/>
+<edge source="kevin trump" target="miller"/>
+<edge source="kevin trump" target="chriswallace  pm   oct"/>
+<edge source="kevin trump" target="october"/>
+<edge source="kevin trump" target="hillary"/>
+<edge source="kevin trump" target="tonight"/>
+<edge source="kevin trump" target="joe biden"/>
+<edge source="kevin trump" target="obama"/>
+<edge source="kevin trump" target="joseph shaw harpandjoseph"/>
+<edge source="hillary" target="clinton"/>
+<edge source="hillary" target="democrat"/>
+<edge source="hillary" target="russia"/>
+<edge source="hillary" target="john"/>
+<edge source="hillary" target="miller"/>
+<edge source="hillary" target="chriswallace  pm   oct"/>
+<edge source="hillary" target="october"/>
+<edge source="hillary" target="kevin trump"/>
+<edge source="hillary" target="tonight"/>
+<edge source="hillary" target="joe biden"/>
+<edge source="hillary" target="obama"/>
+<edge source="hillary" target="joseph shaw harpandjoseph"/>
+<edge source="tonight" target="clinton"/>
+<edge source="tonight" target="democrat"/>
+<edge source="tonight" target="russia"/>
+<edge source="tonight" target="john"/>
+<edge source="tonight" target="miller"/>
+<edge source="tonight" target="chriswallace  pm   oct"/>
+<edge source="tonight" target="october"/>
+<edge source="tonight" target="kevin trump"/>
+<edge source="tonight" target="hillary"/>
+<edge source="tonight" target="joe biden"/>
+<edge source="tonight" target="obama"/>
+<edge source="tonight" target="joseph shaw harpandjoseph"/>
+<edge source="joe biden" target="clinton"/>
+<edge source="joe biden" target="democrat"/>
+<edge source="joe biden" target="russia"/>
+<edge source="joe biden" target="john"/>
+<edge source="joe biden" target="miller"/>
+<edge source="joe biden" target="chriswallace  pm   oct"/>
+<edge source="joe biden" target="october"/>
+<edge source="joe biden" target="kevin trump"/>
+<edge source="joe biden" target="hillary"/>
+<edge source="joe biden" target="tonight"/>
+<edge source="joe biden" target="obama"/>
+<edge source="joe biden" target="joseph shaw harpandjoseph"/>
+<edge source="joseph shaw harpandjoseph" target="clinton"/>
+<edge source="joseph shaw harpandjoseph" target="democrat"/>
+<edge source="joseph shaw harpandjoseph" target="russia"/>
+<edge source="joseph shaw harpandjoseph" target="john"/>
+<edge source="joseph shaw harpandjoseph" target="miller"/>
+<edge source="joseph shaw harpandjoseph" target="chriswallace  pm   oct"/>
+<edge source="joseph shaw harpandjoseph" target="october"/>
+<edge source="joseph shaw harpandjoseph" target="kevin trump"/>
+<edge source="joseph shaw harpandjoseph" target="hillary"/>
+<edge source="joseph shaw harpandjoseph" target="tonight"/>
+<edge source="joseph shaw harpandjoseph" target="joe biden"/>
+<edge source="joseph shaw harpandjoseph" target="obama"/>
+</graph></graphml>
